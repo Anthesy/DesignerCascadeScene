@@ -11,7 +11,13 @@
 				"D:/DesignerCascadeScene/DesignerCascade/Content/_GENERATED/pauli/Box_CCC601CC.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Meshes/BridgePlanks.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Meshes/Rope.uasset",
-				"D:/DesignerCascadeScene/DesignerCascade/Content/Meshes/LeafsLiana.uasset"
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Meshes/LeafsLiana.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Materials/BasicMaterialMaster.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Materials/Liana_Mat.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Lianas/LeafsLiana_ARM.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Lianas/LeafsLiana_BaseColor.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Lianas/LeafsLiana_Normal.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Meshes/PlantBunch1.uasset"
 			]
 		}
 	]
