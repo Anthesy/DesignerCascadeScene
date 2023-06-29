@@ -1153,3 +1153,23 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.29-17.32.23:569][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 195 ms)
 [2023.06.29-17.32.23:572][861]AssetCheck: New page: Asset Save: SceneMap
 [2023.06.29-17.32.23:572][861]LogContentValidation: Display: Validating /Script/Engine.World /Game/SceneMap.SceneMap
+[2023.06.29-17.33.39:680][263]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.29-17.33.39:686][263]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.29-17.33.39:690][264]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.29-17.33.41:067][422]LogContentBrowser: Attempting asset rename: NewFolder -> BP
+[2023.06.29-17.33.41:068][422]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.29-17.33.47:699][678]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/Spline_BP.Spline_BP
+[2023.06.29-17.33.47:699][678]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.29-17.33.48:980][678]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/PhAT_FloorBox) ...
+[2023.06.29-17.33.49:106][678]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.06.29-17.33.55:887][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-17.33.55:947][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Spline_BP" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/BP/Spline_BP.uasset" SILENT=true
+[2023.06.29-17.33.55:954][340]LogSavePackage: Moving output files for package: /Game/BP/Spline_BP
+[2023.06.29-17.33.55:955][340]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/Spline_BPD06E99BB481ABC24D2731AABD96E659D.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/BP/Spline_BP.uasset'
+[2023.06.29-17.33.55:962][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 271 ms)
+[2023.06.29-17.33.55:967][340]AssetCheck: New page: Asset Save: Spline_BP
+[2023.06.29-17.33.55:967][340]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/Spline_BP.Spline_BP
+[2023.06.29-17.33.56:579][401]LogSlate: Window 'Spline_BP' being destroyed
+[2023.06.29-17.33.56:586][401]LogSlate: Window 'Spline_BP' being destroyed
+[2023.06.29-17.33.56:588][401]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.06.29-17.33.56:588][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated

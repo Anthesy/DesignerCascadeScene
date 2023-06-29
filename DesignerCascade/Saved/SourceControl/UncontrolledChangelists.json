@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap"
+				"D:/DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/BP/Spline_BP.uasset"
 			]
 		}
 	]
