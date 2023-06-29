@@ -6,7 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap",
-				"D:/DesignerCascadeScene/DesignerCascade/Content/BP/Spline_BP.uasset"
+				"D:/DesignerCascadeScene/DesignerCascade/Content/BP/Spline_BP.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/_GENERATED/pauli/Box_2032EF22.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/_GENERATED/pauli/Box_CCC601CC.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Meshes/BridgePlanks.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Meshes/Rope.uasset"
 			]
 		}
 	]
