@@ -19,7 +19,12 @@
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Lianas/LeafsLiana_Normal.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Meshes/PlantBunch1.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Meshes/Sculpture.uasset",
-				"D:/DesignerCascadeScene/DesignerCascade/Content/Meshes/roots.uasset"
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Meshes/roots.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Materials/Ropes_Mat.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Ropes/Ropes_ARM.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Ropes/Ropes_BaseColor.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Ropes/Ropes_height.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Ropes/Ropes_normal.uasset"
 			]
 		}
 	]
