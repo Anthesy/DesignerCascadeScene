@@ -1446,3 +1446,747 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.30-09.03.33:566][511]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Ropes/Ropes_normal.Ropes_normal
 [2023.06.30-09.03.33:566][511]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Ropes/Ropes_height.Ropes_height
 [2023.06.30-09.03.33:566][511]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Ropes/Ropes_BaseColor.Ropes_BaseColor
+[2023.06.30-09.03.45:235][707]LogViewport: Scene viewport resized to 1246x544, mode Windowed.
+[2023.06.30-09.03.52:486][322]LogViewport: Scene viewport resized to 1488x658, mode Windowed.
+[2023.06.30-09.03.56:079][608]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.06.30-09.03.56:079][608]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.06.30-09.03.56:097][608]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_6
+[2023.06.30-09.03.56:114][608]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_6
+[2023.06.30-09.03.56:244][608]LogShaderCompilers: Display: ================================================
+[2023.06.30-09.03.56:244][608]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.30-09.03.56:244][608]LogShaderCompilers: Display: Total job queries 125, among them cache hits 10 (8.00%)
+[2023.06.30-09.03.56:244][608]LogShaderCompilers: Display: Tracking 115 distinct input hashes that result in 89 distinct outputs (77.39%)
+[2023.06.30-09.03.56:244][608]LogShaderCompilers: Display: RAM used: 0.95 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2023.06.30-09.03.56:244][608]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.30-09.03.56:244][608]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.06.30-09.03.56:244][608]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100.00%)
+[2023.06.30-09.03.56:244][608]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.03 s
+[2023.06.30-09.03.56:244][608]LogShaderCompilers: Display: Job execution time: average 3.18 s, max 3.24 s
+[2023.06.30-09.03.56:244][608]LogShaderCompilers: Display: Job life time (pending + execution): average 3.22 s, max 3.28
+[2023.06.30-09.03.56:244][608]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.28 s
+[2023.06.30-09.03.56:244][608]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.06.30-09.03.56:244][608]LogShaderCompilers: Display: Average processing rate: 0.61 jobs/sec
+[2023.06.30-09.03.56:244][608]LogShaderCompilers: Display: Total thread time: 1.23 s
+[2023.06.30-09.03.56:244][608]LogShaderCompilers: Display: Total thread preprocess time: 0.08 s
+[2023.06.30-09.03.56:244][608]LogShaderCompilers: Display: Percentage time preprocessing: 6.14%
+[2023.06.30-09.03.56:245][608]LogShaderCompilers: Display: Effective parallelization: 0.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.06.30-09.03.56:245][608]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.06.30-09.03.56:245][608]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2023.06.30-09.03.56:245][608]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.56 sec, max 0.56 sec, min 0.56 sec)
+[2023.06.30-09.03.56:245][608]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.06.30-09.03.56:245][608]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 54.61% of total time (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2023.06.30-09.03.56:245][608]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 45.39% of total time (compiled    1 times, average 0.56 sec, max 0.56 sec, min 0.56 sec)
+[2023.06.30-09.03.56:245][608]LogShaderCompilers: Display: ================================================
+[2023.06.30-09.04.07:116][484]LogEditorViewport: Clicking Background
+[2023.06.30-09.04.11:390][800]LogEditorViewport: Clicking Background
+[2023.06.30-09.04.13:985][ 42]LogViewport: Scene viewport resized to 1246x544, mode Windowed.
+[2023.06.30-09.04.16:707][285]LogTexture: Call to GetPlatformData() is forcing a wait on data that is not yet ready.
+[2023.06.30-09.04.34:669][742]LogViewport: Scene viewport resized to 1488x658, mode Windowed.
+[2023.06.30-09.04.37:636][995]LogViewport: Scene viewport resized to 1246x544, mode Windowed.
+[2023.06.30-09.04.40:139][211]LogTexture: Call to GetPlatformData() is forcing a wait on data that is not yet ready.
+[2023.06.30-09.04.41:972][315]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/BasicShapes/Sphere.Sphere
+[2023.06.30-09.04.42:517][341]LogEditorViewport: Clicking Background
+[2023.06.30-09.04.44:267][466]LogTexture: Call to GetPlatformData() is forcing a wait on data that is not yet ready.
+[2023.06.30-09.04.46:329][576]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/BasicShapes/Sphere.Sphere
+[2023.06.30-09.04.48:025][677]Cmd: TRANSACTION UNDO
+[2023.06.30-09.04.48:025][677]LogEditorTransaction: Undo Clicking on Elements
+[2023.06.30-09.04.50:999][861]LogTexture: Call to GetPlatformData() is forcing a wait on data that is not yet ready.
+[2023.06.30-09.04.56:965][259]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/BasicShapes/Sphere.Sphere
+[2023.06.30-09.05.04:648][870]Cmd: DELETE
+[2023.06.30-09.05.04:648][870]Cmd: ACTOR DELETE
+[2023.06.30-09.05.04:652][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.30-09.05.04:673][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.06.30-09.05.04:678][870]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2023.06.30-09.05.10:897][476]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/pauli/Sphere_E3B07B57.Sphere_E3B07B57
+[2023.06.30-09.05.10:897][476]LogStaticMesh: Display: Building static mesh Sphere_E3B07B57...
+[2023.06.30-09.05.10:898][476]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/pauli/Sphere_E3B07B57.Sphere_E3B07B57 as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_8
+[2023.06.30-09.05.10:911][476]LogStaticMesh: Built static mesh [0.01s] /Game/_GENERATED/pauli/Sphere_E3B07B57.Sphere_E3B07B57
+[2023.06.30-09.05.19:180][135]LogTexture: Call to GetPlatformData() is forcing a wait on data that is not yet ready.
+[2023.06.30-09.05.23:786][386]LogStaticMesh: Display: Building static mesh Sphere_E3B07B57...
+[2023.06.30-09.05.23:804][386]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/_GENERATED/pauli/Sphere_E3B07B57) ...
+[2023.06.30-09.05.24:943][386]LogStaticMesh: Built static mesh [1.16s] /Game/_GENERATED/pauli/Sphere_E3B07B57.Sphere_E3B07B57
+[2023.06.30-09.05.25:639][387]LogNavigation: Warning: Exporting geometry with too many verticies (3345408). This might cause performance and memory issues. Simplify collision or change GeometryExportVertexCountWarningThreshold. See 'StaticMeshComponent /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_8.StaticMeshComponent0'.
+[2023.06.30-09.05.28:934][680]LogViewport: Scene viewport resized to 1488x658, mode Windowed.
+[2023.06.30-09.05.29:720][719]Cmd: DELETE
+[2023.06.30-09.05.29:720][719]Cmd: ACTOR DELETE
+[2023.06.30-09.05.29:728][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.30-09.05.29:747][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.06.30-09.05.29:751][719]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2023.06.30-09.05.31:928][913]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.06.30-09.05.31:928][913]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.06.30-09.05.31:928][913]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_10
+[2023.06.30-09.05.31:929][913]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_10
+[2023.06.30-09.05.41:291][633]LogContentBrowser: Deferred new asset file creation: Sphere1
+[2023.06.30-09.05.41:369][633]LogContentBrowser: Creating deferred item: Sphere1
+[2023.06.30-09.05.41:397][634]LogContentBrowser: Renaming the item being created (Deferred Item: Sphere1).
+[2023.06.30-09.05.47:107][192]LogContentBrowser: Attempting asset rename: Sphere1 -> Ropesphere
+[2023.06.30-09.05.47:126][192]LogContentBrowser: End creating deferred item Sphere1
+[2023.06.30-09.05.48:804][344]Cmd: DELETE
+[2023.06.30-09.05.48:804][344]Cmd: ACTOR DELETE
+[2023.06.30-09.05.48:808][344]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.30-09.05.48:821][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.06.30-09.05.48:825][344]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2023.06.30-09.05.50:219][428]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Ropesphere.Ropesphere
+[2023.06.30-09.05.50:220][428]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Ropesphere.Ropesphere
+[2023.06.30-09.05.50:220][428]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Ropesphere.Ropesphere as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_12
+[2023.06.30-09.05.50:717][484]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Ropesphere.Ropesphere
+[2023.06.30-09.05.50:717][484]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Ropesphere.Ropesphere
+[2023.06.30-09.05.50:718][484]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Ropesphere.Ropesphere as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_14
+[2023.06.30-09.06.19:538][668]LogEditorViewport: Clicking Background
+[2023.06.30-09.06.19:832][689]LogEditorViewport: Clicking Background
+[2023.06.30-09.06.20:419][731]Cmd: DELETE
+[2023.06.30-09.06.20:419][731]Cmd: ACTOR DELETE
+[2023.06.30-09.06.20:421][731]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.30-09.06.20:432][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.06.30-09.06.20:437][731]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.06.30-09.06.21:012][770]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Ropesphere.Ropesphere
+[2023.06.30-09.06.21:012][770]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Ropesphere.Ropesphere
+[2023.06.30-09.06.21:012][770]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/Ropesphere.Ropesphere as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_16
+[2023.06.30-09.06.21:750][850]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Ropesphere.Ropesphere
+[2023.06.30-09.06.21:750][850]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/Ropesphere.Ropesphere
+[2023.06.30-09.06.21:751][850]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/Ropesphere.Ropesphere as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_18
+[2023.06.30-09.06.28:556][374]LogEditorViewport: Clicking Background
+[2023.06.30-09.06.31:302][644]LogViewport: Scene viewport resized to 1246x544, mode Windowed.
+[2023.06.30-09.06.33:640][893]LogTexture: Call to GetPlatformData() is forcing a wait on data that is not yet ready.
+[2023.06.30-09.06.35:415][  5]LogStaticMesh: Display: Building static mesh Ropesphere...
+[2023.06.30-09.06.35:433][  5]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/Ropesphere) ...
+[2023.06.30-09.06.35:905][  5]LogStaticMesh: Built static mesh [0.49s] /Game/Meshes/Ropesphere.Ropesphere
+[2023.06.30-09.06.38:084][208]LogViewport: Scene viewport resized to 1488x658, mode Windowed.
+[2023.06.30-09.06.38:573][249]LogEditorViewport: Clicking Background
+[2023.06.30-09.06.45:318][807]LogEditorViewport: Clicking Background
+[2023.06.30-09.07.44:334][956]LogEditorViewport: Clicking Background
+[2023.06.30-09.07.44:753][992]LogEditorViewport: Clicking Background
+[2023.06.30-09.07.47:046][183]Cmd: DELETE
+[2023.06.30-09.07.47:046][183]Cmd: ACTOR DELETE
+[2023.06.30-09.07.47:051][183]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.30-09.07.47:064][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.06.30-09.07.47:067][183]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.06.30-09.07.47:845][239]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Meshes/Ropesphere.Ropesphere
+[2023.06.30-09.07.47:961][239]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.30-09.07.48:260][239]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display: ================================================
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display: Total job queries 217, among them cache hits 10 (4.61%)
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display: Tracking 203 distinct input hashes that result in 138 distinct outputs (67.98%)
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display: RAM used: 1.47 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.09%
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display: Shaders Compiled: 90
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display: Jobs assigned 94, completed 90 (95.74%)
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display: Average time worker was idle: 22.21 s
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display: Time job spent in pending queue: average 2.63 s, longest 9.25 s
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display: Job execution time: average 0.86 s, max 3.24 s
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display: Job life time (pending + execution): average 3.60 s, max 10.16
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 24.03 s
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display: Jobs were issued in 94 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display: Average processing rate: 3.75 jobs/sec
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display: Total thread time: 56.30 s
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display: Total thread preprocess time: 3.17 s
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display: Percentage time preprocessing: 5.63%
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display: Effective parallelization: 2.34 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   24 times, average 0.78 sec, max 1.13 sec, min 0.58 sec)
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   24 times, average 0.72 sec, max 1.04 sec, min 0.56 sec)
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.71 sec, max 0.72 sec, min 0.71 sec)
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   17 times, average 0.65 sec, max 0.98 sec, min 0.53 sec)
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    2 times, average 0.46 sec, max 0.50 sec, min 0.42 sec)
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 33.21% of total time (compiled   24 times, average 0.78 sec, max 1.13 sec, min 0.58 sec)
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 30.66% of total time (compiled   24 times, average 0.72 sec, max 1.04 sec, min 0.56 sec)
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display:                                                 FLumenCardVS - 19.73% of total time (compiled   17 times, average 0.65 sec, max 0.98 sec, min 0.53 sec)
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 12.23% of total time (compiled   16 times, average 0.43 sec, max 0.63 sec, min 0.34 sec)
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 2.54% of total time (compiled    2 times, average 0.71 sec, max 0.72 sec, min 0.71 sec)
+[2023.06.30-09.07.50:642][393]LogShaderCompilers: Display: ================================================
+[2023.06.30-09.07.52:154][496]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/Ropesphere) ...
+[2023.06.30-09.07.53:214][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-09.07.53:283][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Ropesphere" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/Meshes/Ropesphere.uasset" SILENT=true
+[2023.06.30-09.07.53:333][543]LogSavePackage: Moving output files for package: /Game/Meshes/Ropesphere
+[2023.06.30-09.07.53:333][543]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/RopesphereDAA779844678C099EBC9D5A89F78B2D9.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/Meshes/Ropesphere.uasset'
+[2023.06.30-09.07.53:343][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 2.38 sec)
+[2023.06.30-09.07.53:347][543]AssetCheck: New page: Asset Save: Ropesphere
+[2023.06.30-09.07.53:347][543]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/Ropesphere.Ropesphere
+[2023.06.30-09.07.54:978][636]LogSlate: Window 'Ropesphere' being destroyed
+[2023.06.30-09.07.54:986][636]LogSlate: Window 'Ropesphere' being destroyed
+[2023.06.30-09.07.55:020][636]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.06.30-09.07.55:020][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-09.07.56:121][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-09.07.56:197][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Ropesphere" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/Meshes/Ropesphere.uasset" SILENT=true
+[2023.06.30-09.07.56:248][731]LogSavePackage: Moving output files for package: /Game/Meshes/Ropesphere
+[2023.06.30-09.07.56:249][731]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/Ropesphere137093E743FE47B2F6606DAA326B69FC.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/Meshes/Ropesphere.uasset'
+[2023.06.30-09.07.56:257][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 2.51 sec)
+[2023.06.30-09.07.56:261][731]AssetCheck: New page: Asset Save: Ropesphere
+[2023.06.30-09.07.56:261][731]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/Ropesphere.Ropesphere
+[2023.06.30-09.07.56:965][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.06.30-09.07.58:435][794]LogSlate: Window 'Save Content' being destroyed
+[2023.06.30-09.07.58:462][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-09.07.58:528][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneMap" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.30-09.07.58:537][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.06.30-09.07.58:620][794]LogSavePackage: Moving output files for package: /Game/SceneMap
+[2023.06.30-09.07.58:620][794]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/SceneMap346EB81E435E3AD57F3D1BBDF4558D50.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap'
+[2023.06.30-09.07.58:644][794]LogFileHelpers: Saving map 'SceneMap' took 0.116
+[2023.06.30-09.07.58:676][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/Ropesphere" FILE="../../../Engine/Content/BasicShapes/Ropesphere.uasset" SILENT=true
+[2023.06.30-09.07.58:680][794]LogSavePackage: Moving output files for package: /Engine/BasicShapes/Ropesphere
+[2023.06.30-09.07.58:680][794]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/Ropesphere8BA6419245D2CA7BB1722C8A1E1F86EF.tmp' to '../../../Engine/Content/BasicShapes/Ropesphere.uasset'
+[2023.06.30-09.07.58:693][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/pauli/Sphere_E3B07B57" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/_GENERATED/pauli/Sphere_E3B07B57.uasset" SILENT=true
+[2023.06.30-09.07.58:809][794]LogSavePackage: Moving output files for package: /Game/_GENERATED/pauli/Sphere_E3B07B57
+[2023.06.30-09.07.58:809][794]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/Sphere_E3B07B577BD26B364F6E7107712EAD9C5586E243.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/_GENERATED/pauli/Sphere_E3B07B57.uasset'
+[2023.06.30-09.07.58:815][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 352 ms (total: 2.87 sec)
+[2023.06.30-09.07.58:819][794]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.30-09.07.58:819][794]LogContentValidation: Display: Validating /Script/Engine.World /Game/SceneMap.SceneMap
+[2023.06.30-09.07.58:819][794]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_GENERATED/pauli/Sphere_E3B07B57.Sphere_E3B07B57
+[2023.06.30-09.07.58:819][794]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Engine/BasicShapes/Ropesphere.Ropesphere
+[2023.06.30-09.08.14:696][354]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.30-09.08.14:702][354]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.30-09.08.14:710][355]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.30-09.08.18:190][697]LogContentBrowser: Attempting asset rename: NewFolder -> MaterialsSpheres
+[2023.06.30-09.08.18:190][697]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.30-09.08.20:777][937]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-09.08.20:828][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/MaterialsSpheres/Ropesphere" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/Meshes/MaterialsSpheres/Ropesphere.uasset" SILENT=true
+[2023.06.30-09.08.20:873][937]LogSavePackage: Moving output files for package: /Game/Meshes/MaterialsSpheres/Ropesphere
+[2023.06.30-09.08.20:873][937]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/Ropesphere4045F38349C1098B232EF1B5318935E1.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/Meshes/MaterialsSpheres/Ropesphere.uasset'
+[2023.06.30-09.08.20:880][937]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 2.97 sec)
+[2023.06.30-09.08.20:897][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.06.30-09.08.20:906][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.06.30-09.08.20:914][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.06.30-09.08.20:944][937]AssetCheck: New page: Asset Save: Ropesphere
+[2023.06.30-09.08.20:944][937]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/MaterialsSpheres/Ropesphere.Ropesphere
+[2023.06.30-09.08.22:692][ 74]LogEditorViewport: Clicking Background
+[2023.06.30-09.08.24:272][210]LogEditorViewport: Clicking Background
+[2023.06.30-09.08.24:867][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-09.08.24:934][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneMap" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.30-09.08.24:945][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.06.30-09.08.25:030][268]LogSavePackage: Moving output files for package: /Game/SceneMap
+[2023.06.30-09.08.25:031][268]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/SceneMapDA4C979C4A3F34CC9528979BE760D09A.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap'
+[2023.06.30-09.08.25:045][268]LogFileHelpers: Saving map 'SceneMap' took 0.113
+[2023.06.30-09.08.25:052][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 186 ms (total: 3.16 sec)
+[2023.06.30-09.08.25:056][268]AssetCheck: New page: Asset Save: SceneMap
+[2023.06.30-09.08.25:056][268]LogContentValidation: Display: Validating /Script/Engine.World /Game/SceneMap.SceneMap
+[2023.06.30-09.08.33:632][ 22]LogEditorViewport: Clicking Background
+[2023.06.30-09.08.48:858][307]LogEditorViewport: Clicking Background
+[2023.06.30-09.08.59:883][848]LogEditorViewport: Clicking Background
+[2023.06.30-09.09.02:126][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-09.09.02:208][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneMap" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.30-09.09.02:216][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.06.30-09.09.02:299][ 73]LogSavePackage: Moving output files for package: /Game/SceneMap
+[2023.06.30-09.09.02:299][ 73]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/SceneMap76E8223B4E99FBFE7F30418C53E3BA36.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap'
+[2023.06.30-09.09.02:311][ 73]LogFileHelpers: Saving map 'SceneMap' took 0.104
+[2023.06.30-09.09.02:316][ 73]LogFileHelpers: InternalPromptForCheckoutAndSave took 191 ms (total: 3.35 sec)
+[2023.06.30-09.09.02:320][ 73]AssetCheck: New page: Asset Save: SceneMap
+[2023.06.30-09.09.02:320][ 73]LogContentValidation: Display: Validating /Script/Engine.World /Game/SceneMap.SceneMap
+[2023.06.30-09.09.35:840][546]Cmd: MODE ROTGRID=0
+[2023.06.30-09.09.40:122][929]LogEditorViewport: Clicking Background
+[2023.06.30-09.09.45:995][488]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.09.45:995][488]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.09.45:995][488]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1 as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_22
+[2023.06.30-09.09.46:778][569]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.09.46:778][569]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.09.46:779][569]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1 as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_24
+[2023.06.30-09.09.52:920][123]LogEditorViewport: Clicking Background
+[2023.06.30-09.10.03:418][ 12]LogEditorViewport: Clicking Background
+[2023.06.30-09.10.13:587][923]LogEditorViewport: Clicking Background
+[2023.06.30-09.10.19:375][476]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.10.19:375][476]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.10.19:376][476]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1 as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_27
+[2023.06.30-09.10.19:977][541]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.10.19:977][541]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.10.19:978][541]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1 as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_28
+[2023.06.30-09.10.28:756][184]LogEditorViewport: Clicking Background
+[2023.06.30-09.10.29:879][294]LogEditorViewport: Clicking Background
+[2023.06.30-09.10.38:507][170]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.10.38:507][170]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.10.38:508][170]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1 as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_29
+[2023.06.30-09.10.39:263][252]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.10.39:263][252]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.10.39:263][252]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1 as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_30
+[2023.06.30-09.11.08:223][744]LogEditorViewport: Clicking Background
+[2023.06.30-09.11.12:918][205]LogEditorViewport: Clicking Background
+[2023.06.30-09.11.21:698][930]LogEditorViewport: Clicking Background
+[2023.06.30-09.11.29:895][626]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.11.29:895][626]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.11.29:895][626]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1 as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_32
+[2023.06.30-09.11.30:505][687]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.11.30:505][687]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.11.30:506][687]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1 as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_33
+[2023.06.30-09.11.42:013][794]LogEditorViewport: Clicking Background
+[2023.06.30-09.11.45:992][194]LogEditorViewport: Clicking Background
+[2023.06.30-09.11.49:974][559]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.11.49:975][559]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.11.49:975][559]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1 as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_34
+[2023.06.30-09.11.50:874][660]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.11.50:874][660]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.11.50:875][660]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1 as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_35
+[2023.06.30-09.11.59:767][409]LogEditorViewport: Clicking Background
+[2023.06.30-09.12.07:492][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.12.07:492][182]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.12.07:492][182]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1 as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_36
+[2023.06.30-09.12.07:982][234]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.12.07:982][234]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.12.07:982][234]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1 as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_37
+[2023.06.30-09.12.16:174][980]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.12.16:175][980]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.12.16:175][980]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1 as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_38
+[2023.06.30-09.12.16:572][ 23]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.12.16:572][ 23]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.12.16:573][ 23]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1 as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_39
+[2023.06.30-09.12.24:593][748]LogEditorViewport: Clicking Background
+[2023.06.30-09.12.30:572][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-09.12.30:652][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneMap" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.30-09.12.30:661][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.06.30-09.12.30:744][372]LogSavePackage: Moving output files for package: /Game/SceneMap
+[2023.06.30-09.12.30:745][372]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/SceneMap6D73048A4F3AEA7E1566E79FA0A3065F.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap'
+[2023.06.30-09.12.30:758][372]LogFileHelpers: Saving map 'SceneMap' took 0.107
+[2023.06.30-09.12.30:775][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 203 ms (total: 3.55 sec)
+[2023.06.30-09.12.30:779][372]AssetCheck: New page: Asset Save: SceneMap
+[2023.06.30-09.12.30:779][372]LogContentValidation: Display: Validating /Script/Engine.World /Game/SceneMap.SceneMap
+[2023.06.30-09.12.38:897][121]LogEditorViewport: Clicking Background
+[2023.06.30-09.12.40:931][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-09.12.41:018][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneMap" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.30-09.12.41:029][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.06.30-09.12.41:114][323]LogSavePackage: Moving output files for package: /Game/SceneMap
+[2023.06.30-09.12.41:115][323]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/SceneMap3537D0C84F7A879B239FF695FE8AF49A.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap'
+[2023.06.30-09.12.41:126][323]LogFileHelpers: Saving map 'SceneMap' took 0.108
+[2023.06.30-09.12.41:144][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 213 ms (total: 3.76 sec)
+[2023.06.30-09.12.41:147][323]AssetCheck: New page: Asset Save: SceneMap
+[2023.06.30-09.12.41:147][323]LogContentValidation: Display: Validating /Script/Engine.World /Game/SceneMap.SceneMap
+[2023.06.30-09.13.01:687][364]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Spline_BP.Spline_BP_C
+[2023.06.30-09.13.01:687][364]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Spline_BP.Spline_BP_C
+[2023.06.30-09.13.01:688][364]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Spline_BP.Spline_BP as actor: Spline_BP_C /Game/SceneMap.SceneMap:PersistentLevel.Spline_BP_C_17
+[2023.06.30-09.13.01:690][364]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Spline_BP.Spline_BP as actor: Spline_BP_C /Game/SceneMap.SceneMap:PersistentLevel.Spline_BP_C_17
+[2023.06.30-09.13.02:433][435]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Spline_BP.Spline_BP_C
+[2023.06.30-09.13.02:433][435]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Spline_BP.Spline_BP_C
+[2023.06.30-09.13.02:436][435]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Spline_BP.Spline_BP as actor: Spline_BP_C /Game/SceneMap.SceneMap:PersistentLevel.Spline_BP_C_18
+[2023.06.30-09.13.02:437][435]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Spline_BP.Spline_BP as actor: Spline_BP_C /Game/SceneMap.SceneMap:PersistentLevel.Spline_BP_C_18
+[2023.06.30-09.13.05:014][691]Cmd: TRANSACTION UNDO
+[2023.06.30-09.13.05:014][691]LogEditorTransaction: Undo Rotate Elements
+[2023.06.30-09.13.08:325][913]Cmd: TRANSACTION UNDO
+[2023.06.30-09.13.08:325][913]LogEditorTransaction: Undo Create Actors
+[2023.06.30-09.13.09:683][ 27]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Spline_BP.Spline_BP_C
+[2023.06.30-09.13.09:683][ 27]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Spline_BP.Spline_BP_C
+[2023.06.30-09.13.09:684][ 27]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Spline_BP.Spline_BP as actor: Spline_BP_C /Game/SceneMap.SceneMap:PersistentLevel.Spline_BP_C_21
+[2023.06.30-09.13.09:685][ 27]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Spline_BP.Spline_BP as actor: Spline_BP_C /Game/SceneMap.SceneMap:PersistentLevel.Spline_BP_C_21
+[2023.06.30-09.13.11:527][212]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Spline_BP.Spline_BP_C
+[2023.06.30-09.13.11:527][212]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Spline_BP.Spline_BP_C
+[2023.06.30-09.13.11:529][212]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Spline_BP.Spline_BP as actor: Spline_BP_C /Game/SceneMap.SceneMap:PersistentLevel.Spline_BP_C_22
+[2023.06.30-09.13.11:530][212]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Spline_BP.Spline_BP as actor: Spline_BP_C /Game/SceneMap.SceneMap:PersistentLevel.Spline_BP_C_22
+[2023.06.30-09.13.12:213][271]Cmd: MODE ROTGRID=1
+[2023.06.30-09.13.59:582][820]LogEditorViewport: Clicking Background
+[2023.06.30-09.14.03:633][261]LogEditorViewport: Clicking Background
+[2023.06.30-09.14.07:839][704]LogEditorViewport: Clicking Background
+[2023.06.30-09.14.14:387][432]LogEditorViewport: Clicking Background
+[2023.06.30-09.14.19:317][933]LogEditorViewport: Clicking Background
+[2023.06.30-09.14.51:699][569]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Spline_BP.Spline_BP_C
+[2023.06.30-09.14.51:699][569]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Spline_BP.Spline_BP_C
+[2023.06.30-09.14.51:700][569]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Spline_BP.Spline_BP as actor: Spline_BP_C /Game/SceneMap.SceneMap:PersistentLevel.Spline_BP_C_23
+[2023.06.30-09.14.51:700][569]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Spline_BP.Spline_BP as actor: Spline_BP_C /Game/SceneMap.SceneMap:PersistentLevel.Spline_BP_C_23
+[2023.06.30-09.14.52:189][622]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Spline_BP.Spline_BP_C
+[2023.06.30-09.14.52:189][622]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BP/Spline_BP.Spline_BP_C
+[2023.06.30-09.14.52:191][622]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Spline_BP.Spline_BP as actor: Spline_BP_C /Game/SceneMap.SceneMap:PersistentLevel.Spline_BP_C_24
+[2023.06.30-09.14.52:192][622]LogActorFactory: Actor Factory spawned Blueprint /Game/BP/Spline_BP.Spline_BP as actor: Spline_BP_C /Game/SceneMap.SceneMap:PersistentLevel.Spline_BP_C_24
+[2023.06.30-09.15.17:306][ 83]Cmd: TRANSACTION UNDO
+[2023.06.30-09.15.17:306][ 83]LogEditorTransaction: Undo Move Elements
+[2023.06.30-09.15.43:206][415]Cmd: TRANSACTION UNDO
+[2023.06.30-09.15.43:206][415]LogEditorTransaction: Undo Move Elements
+[2023.06.30-09.16.02:923][147]LogEditorViewport: Clicking Background
+[2023.06.30-09.16.07:283][480]Cmd: TRANSACTION UNDO
+[2023.06.30-09.16.07:284][480]LogEditorTransaction: Undo Scale Elements
+[2023.06.30-09.16.30:809][295]LogHttp: Warning: 00000A2F7BA20500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE96814FB-4AFF-137C-86BC-0D8E4930A7B2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=e693cad74085e205e6f3f3834538df48%7Caef76986af3d4b1fb48cfa8dfb4c47ae%7C5dc53552-e66a-475c-be1a-bf5f15166140&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.06.30-09.16.30:809][295]LogHttp: Warning: 00000A2F7BA20500: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.06.30-09.16.30:809][295]LogHttp: Warning: 00000A2F7BA20500: libcurl info message cache 0 (Found bundle for host: 0xa2f43960000 [serially])
+[2023.06.30-09.16.30:809][295]LogHttp: Warning: 00000A2F7BA20500: libcurl info message cache 1 (Re-using existing connection #0 with host datarouter.ol.epicgames.com)
+[2023.06.30-09.16.30:809][295]LogHttp: Warning: 00000A2F7BA20500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.44.33.67) port 443 (#0))
+[2023.06.30-09.16.30:809][295]LogHttp: Warning: 00000A2F7BA20500: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.06.30-09.16.30:809][295]LogHttp: Warning: 00000A2F7BA20500: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.06.30-09.16.30:809][295]LogHttp: Warning: 00000A2F7BA20500: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.06.30-09.16.30:809][295]LogHttp: Warning: 00000A2F7BA20500: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.06.30-09.16.30:809][295]LogHttp: Warning: 00000A2F7BA20500: libcurl info message cache 7 (Closing connection 0)
+[2023.06.30-09.16.30:809][295]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE96814FB-4AFF-137C-86BC-0D8E4930A7B2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=e693cad74085e205e6f3f3834538df48%7Caef76986af3d4b1fb48cfa8dfb4c47ae%7C5dc53552-e66a-475c-be1a-bf5f15166140&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.06.30-09.16.45:460][406]LogEditorViewport: Clicking Background
+[2023.06.30-09.16.53:965][ 51]LogEditorViewport: Clicking Background
+[2023.06.30-09.16.59:284][445]LogEditorViewport: Clicking Background
+[2023.06.30-09.17.03:711][872]Cmd: TRANSACTION UNDO
+[2023.06.30-09.17.03:711][872]LogEditorTransaction: Undo Clicking Background
+[2023.06.30-09.17.04:160][877]Cmd: TRANSACTION UNDO
+[2023.06.30-09.17.04:160][877]LogEditorTransaction: Undo Move Elements
+[2023.06.30-09.17.11:435][408]LogEditorViewport: Clicking Background
+[2023.06.30-09.17.17:051][957]LogEditorViewport: Clicking Background
+[2023.06.30-09.17.17:831][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-09.17.17:900][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneMap" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.30-09.17.17:966][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.06.30-09.17.18:062][ 43]LogSavePackage: Moving output files for package: /Game/SceneMap
+[2023.06.30-09.17.18:062][ 43]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/SceneMap5CE288B740461801DE11CC967297B59E.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap'
+[2023.06.30-09.17.18:077][ 43]LogFileHelpers: Saving map 'SceneMap' took 0.179
+[2023.06.30-09.17.18:085][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave took 253 ms (total: 4.02 sec)
+[2023.06.30-09.17.18:087][ 43]AssetCheck: New page: Asset Save: SceneMap
+[2023.06.30-09.17.18:087][ 43]LogContentValidation: Display: Validating /Script/Engine.World /Game/SceneMap.SceneMap
+[2023.06.30-09.17.28:670][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-09.17.28:754][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneMap" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.30-09.17.28:771][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.06.30-09.17.28:862][203]LogSavePackage: Moving output files for package: /Game/SceneMap
+[2023.06.30-09.17.28:863][203]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/SceneMapFEFDDB20446C5552CE0B6E81A0D98555.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap'
+[2023.06.30-09.17.28:875][203]LogFileHelpers: Saving map 'SceneMap' took 0.121
+[2023.06.30-09.17.28:882][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 210 ms (total: 4.23 sec)
+[2023.06.30-09.17.28:885][203]AssetCheck: New page: Asset Save: SceneMap
+[2023.06.30-09.17.28:885][203]LogContentValidation: Display: Validating /Script/Engine.World /Game/SceneMap.SceneMap
+[2023.06.30-09.17.31:180][456]LogEditorViewport: Clicking Background
+[2023.06.30-09.17.35:424][660]LogEditorViewport: Clicking Background
+[2023.06.30-09.17.37:734][919]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-09.17.37:820][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneMap" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.30-09.17.37:828][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.06.30-09.17.37:917][919]LogSavePackage: Moving output files for package: /Game/SceneMap
+[2023.06.30-09.17.37:917][919]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/SceneMapC9918129431EEDC6F87E7DA3F227D289.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap'
+[2023.06.30-09.17.37:930][919]LogFileHelpers: Saving map 'SceneMap' took 0.111
+[2023.06.30-09.17.37:938][919]LogFileHelpers: InternalPromptForCheckoutAndSave took 204 ms (total: 4.43 sec)
+[2023.06.30-09.17.37:943][919]AssetCheck: New page: Asset Save: SceneMap
+[2023.06.30-09.17.37:943][919]LogContentValidation: Display: Validating /Script/Engine.World /Game/SceneMap.SceneMap
+[2023.06.30-09.19.32:477][730]LogEditorViewport: Clicking Background
+[2023.06.30-09.19.36:752][120]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.30-09.19.36:767][120]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.30-09.19.36:776][121]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.30-09.19.39:665][449]LogContentBrowser: Attempting asset rename: NewFolder -> BrokenTiles
+[2023.06.30-09.19.39:666][449]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.30-09.19.40:926][582]LogDerivedDataCache: C:/Users/pauli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:43.110 and deleted 0 files with total size 0 MiB. Scanned 22397 files in 20859 folders with total size 4504 MiB.
+[2023.06.30-09.19.48:719][791]LogInterchangeEngine: [Pending] Importing
+[2023.06.30-09.19.48:719][791]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.06.30-09.19.48:720][791]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.06.30-09.19.48:744][792]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.06.30-09.19.49:106][792]LogTexture: Display: Building textures: /Game/Textures/BrokenTiles/BrokenTiles_AO.BrokenTiles_AO (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.062484 MB), EncodeSpeed: Fast
+[2023.06.30-09.19.49:108][792]LogTexture: Display: Building textures: /Game/Textures/BrokenTiles/BrokenTiles_Height.BrokenTiles_Height (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.062484 MB), EncodeSpeed: Fast
+[2023.06.30-09.19.49:121][792]LogTexture: Display: Building textures: /Game/Textures/BrokenTiles/BrokenTiles_Normal.BrokenTiles_Normal (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 304.062484 MB), EncodeSpeed: Fast
+[2023.06.30-09.19.49:122][793]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.06.30-09.19.49:122][793]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.06.30-09.19.49:142][793]LogInterchangeEngine: [Success] Import Done
+[2023.06.30-09.19.49:171][793]LogInterchangeEngine: [Success] Import Done
+[2023.06.30-09.19.49:723][794]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.06.30-09.19.49:729][794]LogTexture: Display: Building textures: /Game/Textures/BrokenTiles/BrokenTiles_Normal.BrokenTiles_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 318.812488 MB), EncodeSpeed: Fast
+[2023.06.30-09.19.58:550][414]LogViewport: Scene viewport resized to 1246x544, mode Windowed.
+[2023.06.30-09.20.00:602][565]LogTexture: Call to GetPlatformData() is forcing a wait on data that is not yet ready.
+[2023.06.30-09.20.05:638][989]LogTexture: Call to GetPlatformData() is forcing a wait on data that is not yet ready.
+[2023.06.30-09.20.05:640][989]LogTexture: Display: Building textures: /Game/Textures/BrokenTiles/BrokenTiles_Height.BrokenTiles_Height (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 114.72916 MB), EncodeSpeed: Fast
+[2023.06.30-09.20.21:689][502]LogStaticMesh: Display: Building static mesh Box_CCC601CC...
+[2023.06.30-09.20.21:707][502]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/_GENERATED/pauli/Box_CCC601CC) ...
+[2023.06.30-09.20.21:761][502]LogStaticMesh: Built static mesh [0.07s] /Game/_GENERATED/pauli/Box_CCC601CC.Box_CCC601CC
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display: ================================================
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display: Total job queries 313, among them cache hits 10 (3.19%)
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display: Tracking 288 distinct input hashes that result in 175 distinct outputs (60.76%)
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display: RAM used: 1.95 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.12%
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display: Shaders Compiled: 175
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display: Jobs assigned 179, completed 175 (97.77%)
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display: Average time worker was idle: 28.27 s
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display: Time job spent in pending queue: average 2.47 s, longest 9.25 s
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display: Job execution time: average 0.84 s, max 3.24 s
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display: Job life time (pending + execution): average 3.36 s, max 10.16
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 42.39 s
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display: Jobs were issued in 179 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display: Average processing rate: 4.13 jobs/sec
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display: Total thread time: 110.46 s
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display: Total thread preprocess time: 6.21 s
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display: Percentage time preprocessing: 5.62%
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display: Effective parallelization: 2.61 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   47 times, average 0.79 sec, max 1.23 sec, min 0.58 sec)
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   47 times, average 0.74 sec, max 1.04 sec, min 0.56 sec)
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    3 times, average 0.70 sec, max 0.72 sec, min 0.68 sec)
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   32 times, average 0.64 sec, max 0.98 sec, min 0.53 sec)
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled   33 times, average 0.44 sec, max 0.87 sec, min 0.34 sec)
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 33.61% of total time (compiled   47 times, average 0.79 sec, max 1.23 sec, min 0.58 sec)
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 31.53% of total time (compiled   47 times, average 0.74 sec, max 1.04 sec, min 0.56 sec)
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display:                                                 FLumenCardVS - 18.56% of total time (compiled   32 times, average 0.64 sec, max 0.98 sec, min 0.53 sec)
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 13.24% of total time (compiled   33 times, average 0.44 sec, max 0.87 sec, min 0.34 sec)
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 1.91% of total time (compiled    3 times, average 0.70 sec, max 0.72 sec, min 0.68 sec)
+[2023.06.30-09.20.24:894][681]LogShaderCompilers: Display: ================================================
+[2023.06.30-09.20.29:094][889]LogEditorViewport: Clicking Background
+[2023.06.30-09.20.34:657][363]LogEditorViewport: Clicking Background
+[2023.06.30-09.20.38:677][768]LogViewport: Scene viewport resized to 1246x532, mode Windowed.
+[2023.06.30-09.20.38:695][769]LogViewport: Scene viewport resized to 1246x523, mode Windowed.
+[2023.06.30-09.20.38:733][770]LogViewport: Scene viewport resized to 1246x505, mode Windowed.
+[2023.06.30-09.20.38:764][771]LogViewport: Scene viewport resized to 1246x488, mode Windowed.
+[2023.06.30-09.20.38:807][773]LogViewport: Scene viewport resized to 1246x467, mode Windowed.
+[2023.06.30-09.20.38:838][775]LogViewport: Scene viewport resized to 1246x460, mode Windowed.
+[2023.06.30-09.20.38:869][777]LogViewport: Scene viewport resized to 1246x455, mode Windowed.
+[2023.06.30-09.20.38:899][779]LogViewport: Scene viewport resized to 1246x451, mode Windowed.
+[2023.06.30-09.20.41:346][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.06.30-09.20.42:036][ 13]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.30-09.20.42:077][ 13]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Textures/BrokenTiles/BrokenTiles_Height_Mat.BrokenTiles_Height_Mat
+	Asset Type: Material
+[2023.06.30-09.20.42:264][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.06.30-09.20.42:273][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.06.30-09.20.42:282][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.06.30-09.20.50:659][782]LogContentBrowser: Deferred new asset file creation: BasicMaterialMaster_Inst
+[2023.06.30-09.20.50:716][782]LogContentBrowser: Creating deferred item: BasicMaterialMaster_Inst
+[2023.06.30-09.20.50:726][783]LogContentBrowser: Renaming the item being created (Deferred Item: BasicMaterialMaster_Inst).
+[2023.06.30-09.20.57:657][294]LogContentBrowser: Attempting asset rename: BasicMaterialMaster_Inst -> BrokenTiles_Mat
+[2023.06.30-09.20.57:658][294]LogContentBrowser: End creating deferred item BasicMaterialMaster_Inst
+[2023.06.30-09.20.58:700][369]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/BrokenTiles_Mat.BrokenTiles_Mat
+[2023.06.30-09.20.58:701][369]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.30-09.20.58:935][369]LogViewport: Scene viewport resized to 1335x902, mode Windowed.
+[2023.06.30-09.21.09:220][165]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-09.21.09:299][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/BrokenTiles_Mat" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/Materials/BrokenTiles_Mat.uasset" SILENT=true
+[2023.06.30-09.21.09:308][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.06.30-09.21.09:321][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.06.30-09.21.09:324][165]LogSavePackage: Moving output files for package: /Game/Materials/BrokenTiles_Mat
+[2023.06.30-09.21.09:324][165]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/BrokenTiles_Mat4072C5B641CF0CE8CF26268C5DD63F85.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/Materials/BrokenTiles_Mat.uasset'
+[2023.06.30-09.21.09:332][165]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 4.54 sec)
+[2023.06.30-09.21.09:339][165]AssetCheck: New page: Asset Save: BrokenTiles_Mat
+[2023.06.30-09.21.09:339][165]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/BrokenTiles_Mat.BrokenTiles_Mat
+[2023.06.30-09.21.10:273][242]LogSlate: Window 'BrokenTiles_Mat' being destroyed
+[2023.06.30-09.21.10:281][242]LogSlate: Window 'BrokenTiles_Mat' being destroyed
+[2023.06.30-09.21.10:297][242]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.06.30-09.21.10:297][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-09.21.11:989][396]LogEditorViewport: Clicking Background
+[2023.06.30-09.21.13:628][551]LogEditorViewport: Clicking Background
+[2023.06.30-09.21.17:331][974]LogEditorViewport: Clicking Background
+[2023.06.30-09.21.30:922][435]Cmd: TRANSACTION UNDO
+[2023.06.30-09.21.30:922][435]LogEditorTransaction: Undo Create Actors
+[2023.06.30-09.21.31:459][442]Cmd: TRANSACTION UNDO
+[2023.06.30-09.21.31:459][442]LogEditorTransaction: Undo Create Actors
+[2023.06.30-09.21.31:971][477]LogEditorViewport: Clicking Background
+[2023.06.30-09.21.33:595][599]LogEditorViewport: Clicking Background
+[2023.06.30-09.21.36:199][835]LogViewport: Scene viewport resized to 1488x547, mode Windowed.
+[2023.06.30-09.27.38:093][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.30-09.27.38:097][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneMap" FILE="../../../../DesignerCascadeScene/DesignerCascade/Saved/Autosaves/Game/SceneMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.06.30-09.27.38:194][679]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SceneMap_Auto1
+[2023.06.30-09.27.38:195][679]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/SceneMap_Auto136974F8E4637E0CB0FB0D98C610B0A19.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Saved/Autosaves/Game/SceneMap_Auto1.umap'
+[2023.06.30-09.27.38:201][679]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SceneMap' took 0.121
+[2023.06.30-09.27.38:201][679]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.121
+[2023.06.30-09.27.38:202][679]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/pauli/Box_CCC601CC] ([1] browsable assets)...
+[2023.06.30-09.27.38:328][679]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/pauli/Box_CCC601CC.Box_CCC601CC]
+[2023.06.30-09.27.38:328][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/pauli/Box_CCC601CC]
+[2023.06.30-09.27.38:344][679]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/pauli/Box_CCC601CC_Auto1
+[2023.06.30-09.27.38:345][679]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/Box_CCC601CC_Auto15ABE983B440ACB19911957B93A8B6DDB.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Saved/Autosaves/Game/_GENERATED/pauli/Box_CCC601CC_Auto1.uasset'
+[2023.06.30-09.27.38:398][679]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/BrokenTiles/BrokenTiles_Height] ([1] browsable assets)...
+[2023.06.30-09.27.38:428][679]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/BrokenTiles/BrokenTiles_Height.BrokenTiles_Height]
+[2023.06.30-09.27.38:428][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/BrokenTiles/BrokenTiles_Height]
+[2023.06.30-09.27.38:443][679]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/BrokenTiles/BrokenTiles_Height_Auto1
+[2023.06.30-09.27.38:443][679]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/BrokenTiles_Height_Auto120ACF6814BE13A6E6434E4940F477DDD.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Saved/Autosaves/Game/Textures/BrokenTiles/BrokenTiles_Height_Auto1.uasset'
+[2023.06.30-09.27.38:444][679]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/BrokenTiles/BrokenTiles_Normal] ([1] browsable assets)...
+[2023.06.30-09.27.38:446][679]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/BrokenTiles/BrokenTiles_Normal.BrokenTiles_Normal]
+[2023.06.30-09.27.38:446][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/BrokenTiles/BrokenTiles_Normal]
+[2023.06.30-09.27.38:592][679]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/BrokenTiles/BrokenTiles_Normal_Auto1
+[2023.06.30-09.27.38:592][679]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/BrokenTiles_Normal_Auto193CE26CA48F3D88638F092A57AE6E611.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Saved/Autosaves/Game/Textures/BrokenTiles/BrokenTiles_Normal_Auto1.uasset'
+[2023.06.30-09.27.38:593][679]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/BrokenTiles/BrokenTiles_AO] ([1] browsable assets)...
+[2023.06.30-09.27.38:595][679]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/BrokenTiles/BrokenTiles_AO.BrokenTiles_AO]
+[2023.06.30-09.27.38:595][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/BrokenTiles/BrokenTiles_AO]
+[2023.06.30-09.27.38:631][679]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/BrokenTiles/BrokenTiles_AO_Auto1
+[2023.06.30-09.27.38:631][679]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/BrokenTiles_AO_Auto1ACC3CBC64AE38897E589DE826725C79F.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Saved/Autosaves/Game/Textures/BrokenTiles/BrokenTiles_AO_Auto1.uasset'
+[2023.06.30-09.27.38:632][679]LogFileHelpers: Auto-saving content packages took 0.430
+[2023.06.30-09.38.37:198][107]LogInterchangeEngine: [Pending] Importing
+[2023.06.30-09.38.37:198][107]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.06.30-09.38.37:415][108]LogTexture: Display: Building textures: /Game/Textures/BrokenTiles/BrokenTiles_ARM.BrokenTiles_ARM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.06.30-09.38.37:417][108]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.06.30-09.38.37:420][108]LogTexture: Display: Building textures: /Game/Textures/BrokenTiles/BrokenTiles_BaseColor.BrokenTiles_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.06.30-09.38.37:586][108]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.06.30-09.38.37:593][108]LogInterchangeEngine: [Success] Import Done
+[2023.06.30-09.38.37:627][109]LogInterchangeEngine: [Success] Import Done
+[2023.06.30-09.38.40:112][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.06.30-09.38.40:993][219]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.30-09.38.41:012][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.06.30-09.38.41:022][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.06.30-09.38.41:030][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.06.30-09.38.44:264][469]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/BrokenTiles_Mat.BrokenTiles_Mat
+[2023.06.30-09.38.44:266][469]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.30-09.38.44:509][469]LogViewport: Scene viewport resized to 1335x902, mode Windowed.
+[2023.06.30-09.38.56:841][294]LogShaderCompilers: Display: ================================================
+[2023.06.30-09.38.56:841][294]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.30-09.38.56:841][294]LogShaderCompilers: Display: Total job queries 317, among them cache hits 10 (3.15%)
+[2023.06.30-09.38.56:841][294]LogShaderCompilers: Display: Tracking 304 distinct input hashes that result in 185 distinct outputs (60.86%)
+[2023.06.30-09.38.56:841][294]LogShaderCompilers: Display: RAM used: 2.07 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.13%
+[2023.06.30-09.38.56:841][294]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.30-09.38.56:841][294]LogShaderCompilers: Display: Shaders Compiled: 191
+[2023.06.30-09.38.56:841][294]LogShaderCompilers: Display: Jobs assigned 194, completed 191 (98.45%)
+[2023.06.30-09.38.56:841][294]LogShaderCompilers: Display: Average time worker was idle: 49.37 s
+[2023.06.30-09.38.56:841][294]LogShaderCompilers: Display: Time job spent in pending queue: average 2.41 s, longest 9.25 s
+[2023.06.30-09.38.56:842][294]LogShaderCompilers: Display: Job execution time: average 0.85 s, max 3.24 s
+[2023.06.30-09.38.56:842][294]LogShaderCompilers: Display: Job life time (pending + execution): average 3.29 s, max 10.16
+[2023.06.30-09.38.56:842][294]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 46.52 s
+[2023.06.30-09.38.56:842][294]LogShaderCompilers: Display: Jobs were issued in 194 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.06.30-09.38.56:842][294]LogShaderCompilers: Display: Average processing rate: 4.11 jobs/sec
+[2023.06.30-09.38.56:842][294]LogShaderCompilers: Display: Total thread time: 123.20 s
+[2023.06.30-09.38.56:842][294]LogShaderCompilers: Display: Total thread preprocess time: 6.88 s
+[2023.06.30-09.38.56:842][294]LogShaderCompilers: Display: Percentage time preprocessing: 5.59%
+[2023.06.30-09.38.56:842][294]LogShaderCompilers: Display: Effective parallelization: 2.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.06.30-09.38.56:842][294]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.30-09.38.56:842][294]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 1.04 sec, max 1.04 sec, min 1.04 sec)
+[2023.06.30-09.38.56:842][294]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 1.00 sec, max 1.00 sec, min 1.00 sec)
+[2023.06.30-09.38.56:842][294]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.98 sec, max 0.98 sec, min 0.98 sec)
+[2023.06.30-09.38.56:842][294]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.97 sec, max 0.97 sec, min 0.97 sec)
+[2023.06.30-09.38.56:842][294]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.93 sec, max 0.93 sec, min 0.93 sec)
+[2023.06.30-09.38.56:842][294]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.30-09.38.56:842][294]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.83% of total time (compiled   48 times, average 0.79 sec, max 1.23 sec, min 0.58 sec)
+[2023.06.30-09.38.56:842][294]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 28.90% of total time (compiled   48 times, average 0.74 sec, max 1.04 sec, min 0.56 sec)
+[2023.06.30-09.38.56:842][294]LogShaderCompilers: Display:                                                 FLumenCardVS - 17.20% of total time (compiled   33 times, average 0.64 sec, max 0.98 sec, min 0.53 sec)
+[2023.06.30-09.38.56:842][294]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 12.24% of total time (compiled   34 times, average 0.44 sec, max 0.87 sec, min 0.34 sec)
+[2023.06.30-09.38.56:842][294]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 1.71% of total time (compiled    3 times, average 0.70 sec, max 0.72 sec, min 0.68 sec)
+[2023.06.30-09.38.56:842][294]LogShaderCompilers: Display: ================================================
+[2023.06.30-09.39.29:086][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.06.30-09.39.29:089][817]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SceneMap' took 0.013
+[2023.06.30-09.39.29:090][817]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/BrokenTiles/BrokenTiles_BaseColor] ([1] browsable assets)...
+[2023.06.30-09.39.29:093][817]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/BrokenTiles/BrokenTiles_BaseColor.BrokenTiles_BaseColor]
+[2023.06.30-09.39.29:093][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/BrokenTiles/BrokenTiles_BaseColor]
+[2023.06.30-09.39.29:121][817]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/BrokenTiles/BrokenTiles_BaseColor_Auto2
+[2023.06.30-09.39.29:121][817]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/BrokenTiles_BaseColor_Auto2A6A4E6D545D1DF6A79770F8CC04563C5.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Saved/Autosaves/Game/Textures/BrokenTiles/BrokenTiles_BaseColor_Auto2.uasset'
+[2023.06.30-09.39.29:134][817]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/BrokenTiles_Mat] ([1] browsable assets)...
+[2023.06.30-09.39.29:226][817]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Materials/BrokenTiles_Mat.BrokenTiles_Mat]
+[2023.06.30-09.39.29:226][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/BrokenTiles_Mat]
+[2023.06.30-09.39.29:235][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.06.30-09.39.29:247][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.06.30-09.39.29:264][817]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materials/BrokenTiles_Mat_Auto2
+[2023.06.30-09.39.29:264][817]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/BrokenTiles_Mat_Auto264B2A5FA4660D1B2BE1DA7B7A31935DD.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Saved/Autosaves/Game/Materials/BrokenTiles_Mat_Auto2.uasset'
+[2023.06.30-09.39.29:264][817]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/BrokenTiles/BrokenTiles_ARM] ([1] browsable assets)...
+[2023.06.30-09.39.29:269][817]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/BrokenTiles/BrokenTiles_ARM.BrokenTiles_ARM]
+[2023.06.30-09.39.29:269][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/BrokenTiles/BrokenTiles_ARM]
+[2023.06.30-09.39.29:279][817]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/BrokenTiles/BrokenTiles_ARM_Auto2
+[2023.06.30-09.39.29:279][817]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/BrokenTiles_ARM_Auto2A84AA30940E963C77C9FE090103035A0.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Saved/Autosaves/Game/Textures/BrokenTiles/BrokenTiles_ARM_Auto2.uasset'
+[2023.06.30-09.39.29:280][817]LogFileHelpers: Auto-saving content packages took 0.191
+[2023.06.30-09.39.52:517][904]LogSlate: Window 'BrokenTiles_Mat' being destroyed
+[2023.06.30-09.39.52:528][904]LogSlate: Window 'BrokenTiles_Mat' being destroyed
+[2023.06.30-09.39.52:542][904]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.06.30-09.39.52:542][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-09.40.01:722][492]LogInterchangeEngine: [Pending] Importing
+[2023.06.30-09.40.01:810][492]LogInterchangeEngine: [Success] Import Done
+[2023.06.30-09.40.01:813][492]LogTexture: Display: Building textures: /Game/Textures/BrokenTiles/BrokenTiles_ARM.BrokenTiles_ARM (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.06.30-09.40.01:844][493]LogInterchangeEngine: [Success] Import Done
+[2023.06.30-09.40.09:001][820]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/BrokenTiles_Mat.BrokenTiles_Mat
+[2023.06.30-09.40.09:002][820]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.30-09.40.09:217][820]LogViewport: Scene viewport resized to 1335x902, mode Windowed.
+[2023.06.30-09.40.11:892][  9]LogSlate: Window 'BrokenTiles_Mat' being destroyed
+[2023.06.30-09.40.11:902][  9]LogSlate: Window 'BrokenTiles_Mat' being destroyed
+[2023.06.30-09.40.11:916][  9]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.06.30-09.40.11:916][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.30-09.40.12:451][ 49]LogEditorViewport: Clicking Background
+[2023.06.30-09.40.16:354][474]LogEditorViewport: Clicking Background
+[2023.06.30-09.40.19:031][751]LogEditorViewport: Clicking Background
+[2023.06.30-09.40.20:391][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-09.40.20:463][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneMap" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.30-09.40.20:476][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.06.30-09.40.20:568][902]LogSavePackage: Moving output files for package: /Game/SceneMap
+[2023.06.30-09.40.20:569][902]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/SceneMap0BBBCE0C47F24959E33EE0A3E6ACBF59.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap'
+[2023.06.30-09.40.20:580][902]LogFileHelpers: Saving map 'SceneMap' took 0.117
+[2023.06.30-09.40.20:599][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 207 ms (total: 4.75 sec)
+[2023.06.30-09.40.20:604][902]AssetCheck: New page: Asset Save: SceneMap
+[2023.06.30-09.40.20:604][902]LogContentValidation: Display: Validating /Script/Engine.World /Game/SceneMap.SceneMap
+[2023.06.30-09.40.25:036][341]LogViewport: Scene viewport resized to 1488x549, mode Windowed.
+[2023.06.30-09.40.25:070][343]LogViewport: Scene viewport resized to 1488x555, mode Windowed.
+[2023.06.30-09.40.25:109][345]LogViewport: Scene viewport resized to 1488x558, mode Windowed.
+[2023.06.30-09.40.25:143][347]LogViewport: Scene viewport resized to 1488x560, mode Windowed.
+[2023.06.30-09.40.25:210][353]LogViewport: Scene viewport resized to 1488x567, mode Windowed.
+[2023.06.30-09.40.25:267][358]LogViewport: Scene viewport resized to 1488x570, mode Windowed.
+[2023.06.30-09.40.25:297][360]LogViewport: Scene viewport resized to 1488x571, mode Windowed.
+[2023.06.30-09.40.25:342][362]LogViewport: Scene viewport resized to 1488x575, mode Windowed.
+[2023.06.30-09.40.25:375][364]LogViewport: Scene viewport resized to 1488x578, mode Windowed.
+[2023.06.30-09.40.25:402][365]LogViewport: Scene viewport resized to 1488x581, mode Windowed.
+[2023.06.30-09.40.25:444][367]LogViewport: Scene viewport resized to 1488x585, mode Windowed.
+[2023.06.30-09.40.25:496][371]LogViewport: Scene viewport resized to 1488x592, mode Windowed.
+[2023.06.30-09.40.25:514][372]LogViewport: Scene viewport resized to 1488x594, mode Windowed.
+[2023.06.30-09.40.25:563][374]LogViewport: Scene viewport resized to 1488x598, mode Windowed.
+[2023.06.30-09.40.25:617][378]LogViewport: Scene viewport resized to 1488x604, mode Windowed.
+[2023.06.30-09.40.25:674][383]LogViewport: Scene viewport resized to 1488x609, mode Windowed.
+[2023.06.30-09.40.25:705][385]LogViewport: Scene viewport resized to 1488x612, mode Windowed.
+[2023.06.30-09.40.25:742][387]LogViewport: Scene viewport resized to 1488x616, mode Windowed.
+[2023.06.30-09.40.25:775][389]LogViewport: Scene viewport resized to 1488x618, mode Windowed.
+[2023.06.30-09.40.25:898][402]LogViewport: Scene viewport resized to 1488x623, mode Windowed.
+[2023.06.30-09.40.25:915][403]LogViewport: Scene viewport resized to 1488x625, mode Windowed.
+[2023.06.30-09.40.25:958][404]LogViewport: Scene viewport resized to 1488x629, mode Windowed.
+[2023.06.30-09.40.26:015][408]LogViewport: Scene viewport resized to 1488x633, mode Windowed.
+[2023.06.30-09.40.26:095][416]LogViewport: Scene viewport resized to 1488x635, mode Windowed.
+[2023.06.30-09.40.26:134][419]LogViewport: Scene viewport resized to 1488x638, mode Windowed.
+[2023.06.30-09.40.26:231][428]LogViewport: Scene viewport resized to 1488x641, mode Windowed.
+[2023.06.30-09.40.26:261][430]LogViewport: Scene viewport resized to 1488x643, mode Windowed.
+[2023.06.30-09.40.26:314][434]LogViewport: Scene viewport resized to 1488x647, mode Windowed.
+[2023.06.30-09.40.31:838][942]LogClient: High resolution screenshot saved as D:/DesignerCascadeScene/DesignerCascade/Saved/Screenshots/WindowsEditor/HighresScreenshot00003.png
+[2023.06.30-09.40.54:595][107]Cmd: r.ResetRenderTargetsExtent
+[2023.06.30-09.40.54:595][107]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.06.30-09.40.54:595][107]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.06.30-09.40.55:375][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-09.40.55:448][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneMap" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.30-09.40.55:459][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.06.30-09.40.55:555][182]LogSavePackage: Moving output files for package: /Game/SceneMap
+[2023.06.30-09.40.55:555][182]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/SceneMap2402CD0A455672BEEA3CC1945090F476.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap'
+[2023.06.30-09.40.55:568][182]LogFileHelpers: Saving map 'SceneMap' took 0.120
+[2023.06.30-09.40.55:576][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 201 ms (total: 4.95 sec)
+[2023.06.30-09.40.55:580][182]AssetCheck: New page: Asset Save: SceneMap
+[2023.06.30-09.40.55:580][182]LogContentValidation: Display: Validating /Script/Engine.World /Game/SceneMap.SceneMap
+[2023.06.30-09.41.56:690][588]LogEditorViewport: Clicking Background
+[2023.06.30-09.42.11:886][118]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.42.11:886][118]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.42.11:887][118]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1 as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_40
+[2023.06.30-09.42.14:950][458]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.42.14:950][458]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.42.14:952][458]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1 as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_41
+[2023.06.30-09.42.19:934][900]Cmd: MODE ROTGRID=0
+[2023.06.30-09.42.33:856][ 83]LogEditorViewport: Clicking Background
+[2023.06.30-09.42.36:331][349]LogEditorViewport: Clicking Background
+[2023.06.30-09.42.44:032][695]LogEditorViewport: Clicking Background
+[2023.06.30-09.42.45:725][849]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.42.45:726][849]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.42.45:726][849]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1 as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_42
+[2023.06.30-09.42.46:081][888]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.42.46:081][888]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1
+[2023.06.30-09.42.46:082][888]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/PlantBunch1.PlantBunch1 as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_43
+[2023.06.30-09.43.11:643][120]LogEditorViewport: Clicking Background
+[2023.06.30-09.43.25:806][381]LogEditorViewport: Clicking Background
+[2023.06.30-09.43.26:994][487]LogEditorViewport: Clicking Background
+[2023.06.30-09.43.47:953][423]LogEditorViewport: Clicking Background
+[2023.06.30-09.43.53:837][919]LogEditorViewport: Clicking Background
+[2023.06.30-09.44.28:767][490]LogEditorViewport: Clicking Background
+[2023.06.30-09.44.38:199][402]LogEditorViewport: Clicking Background
+[2023.06.30-09.44.45:313][ 58]LogEditorViewport: Clicking Background
+[2023.06.30-09.44.52:626][823]LogEditorViewport: Clicking Background
+[2023.06.30-09.44.55:056][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-09.44.55:134][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneMap" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.30-09.44.55:145][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.30-09.44.55:242][ 43]LogSavePackage: Moving output files for package: /Game/SceneMap
+[2023.06.30-09.44.55:243][ 43]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/SceneMapF32B5F6648037108542AB9BC87B99082.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap'
+[2023.06.30-09.44.55:258][ 43]LogFileHelpers: Saving map 'SceneMap' took 0.125
+[2023.06.30-09.44.55:264][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave took 208 ms (total: 5.16 sec)
+[2023.06.30-09.44.55:269][ 43]AssetCheck: New page: Asset Save: SceneMap
+[2023.06.30-09.44.55:269][ 43]LogContentValidation: Display: Validating /Script/Engine.World /Game/SceneMap.SceneMap
+[2023.06.30-09.44.55:729][ 75]LogEditorViewport: Clicking Background
+[2023.06.30-09.45.12:524][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-09.45.12:575][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneMap" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.30-09.45.12:584][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.06.30-09.45.12:676][794]LogSavePackage: Moving output files for package: /Game/SceneMap
+[2023.06.30-09.45.12:677][794]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/SceneMapA9DFFB3F48C846EA335F06AF3E0435F1.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap'
+[2023.06.30-09.45.12:690][794]LogFileHelpers: Saving map 'SceneMap' took 0.114
+[2023.06.30-09.45.12:695][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 5.33 sec)
+[2023.06.30-09.45.12:699][794]AssetCheck: New page: Asset Save: SceneMap
+[2023.06.30-09.45.12:699][794]LogContentValidation: Display: Validating /Script/Engine.World /Game/SceneMap.SceneMap
+[2023.06.30-09.45.12:942][817]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-09.45.12:994][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneMap" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.06.30-09.45.13:003][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.06.30-09.45.13:097][817]LogSavePackage: Moving output files for package: /Game/SceneMap
+[2023.06.30-09.45.13:098][817]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/SceneMapCD35218D4E7A9831498B40B5C24B71A8.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap'
+[2023.06.30-09.45.13:113][817]LogFileHelpers: Saving map 'SceneMap' took 0.120
+[2023.06.30-09.45.13:120][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 5.51 sec)
+[2023.06.30-09.45.13:126][817]AssetCheck: New page: Asset Save: SceneMap
+[2023.06.30-09.45.13:126][817]LogContentValidation: Display: Validating /Script/Engine.World /Game/SceneMap.SceneMap
+[2023.06.30-09.45.13:654][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.06.30-09.45.14:426][864]LogSlate: Window 'Save Content' being destroyed
+[2023.06.30-09.45.14:457][864]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.30-09.45.14:509][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_GENERATED/pauli/Box_CCC601CC" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/_GENERATED/pauli/Box_CCC601CC.uasset" SILENT=true
+[2023.06.30-09.45.14:521][864]LogSavePackage: Moving output files for package: /Game/_GENERATED/pauli/Box_CCC601CC
+[2023.06.30-09.45.14:521][864]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/Box_CCC601CC1EE071934E622FE2689DAC9912CB8C9E.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/_GENERATED/pauli/Box_CCC601CC.uasset'
+[2023.06.30-09.45.14:524][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/BrokenTiles/BrokenTiles_ARM" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/Textures/BrokenTiles/BrokenTiles_ARM.uasset" SILENT=true
+[2023.06.30-09.45.14:631][864]LogSavePackage: Moving output files for package: /Game/Textures/BrokenTiles/BrokenTiles_ARM
+[2023.06.30-09.45.14:631][864]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/BrokenTiles_ARM01401FF14FAD11E00F849881246ACA3C.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/Textures/BrokenTiles/BrokenTiles_ARM.uasset'
+[2023.06.30-09.45.14:780][864]LogSavePackage: Moving output files for package: /Game/Textures/BrokenTiles/BrokenTiles_BaseColor
+[2023.06.30-09.45.14:780][864]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/BrokenTiles_BaseColor9E42836A4723A7AECE569FBCFA4DEEC5.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/Textures/BrokenTiles/BrokenTiles_BaseColor.uasset'
+[2023.06.30-09.45.14:781][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/BrokenTiles/BrokenTiles_Height" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/Textures/BrokenTiles/BrokenTiles_Height.uasset" SILENT=true
+[2023.06.30-09.45.14:836][864]LogSavePackage: Moving output files for package: /Game/Textures/BrokenTiles/BrokenTiles_Height
+[2023.06.30-09.45.14:836][864]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/BrokenTiles_Height48810D3A4F0CB61D7FFC768F16B31E15.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/Textures/BrokenTiles/BrokenTiles_Height.uasset'
+[2023.06.30-09.45.14:856][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/BrokenTiles_Mat" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/Materials/BrokenTiles_Mat.uasset" SILENT=true
+[2023.06.30-09.45.14:858][864]LogSavePackage: Moving output files for package: /Game/Materials/BrokenTiles_Mat
+[2023.06.30-09.45.14:858][864]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/BrokenTiles_MatDB2CDE6F4646545D09629C94F4D52ADA.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/Materials/BrokenTiles_Mat.uasset'
+[2023.06.30-09.45.14:859][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/BrokenTiles/BrokenTiles_Normal" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/Textures/BrokenTiles/BrokenTiles_Normal.uasset" SILENT=true
+[2023.06.30-09.45.15:026][864]LogSavePackage: Moving output files for package: /Game/Textures/BrokenTiles/BrokenTiles_Normal
+[2023.06.30-09.45.15:026][864]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/BrokenTiles_Normal46D352A34A1ABCE267D51ABE2B51F406.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/Textures/BrokenTiles/BrokenTiles_Normal.uasset'
+[2023.06.30-09.45.15:034][864]LogFileHelpers: InternalPromptForCheckoutAndSave took 576 ms (total: 6.09 sec)
+[2023.06.30-09.45.15:037][864]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.30-09.45.15:037][864]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/BrokenTiles/BrokenTiles_BaseColor.BrokenTiles_BaseColor
+[2023.06.30-09.45.15:037][864]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/BrokenTiles/BrokenTiles_Normal.BrokenTiles_Normal
+[2023.06.30-09.45.15:037][864]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/BrokenTiles/BrokenTiles_Height.BrokenTiles_Height
+[2023.06.30-09.45.15:037][864]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/BrokenTiles/BrokenTiles_ARM.BrokenTiles_ARM
+[2023.06.30-09.45.15:037][864]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/_GENERATED/pauli/Box_CCC601CC.Box_CCC601CC
+[2023.06.30-09.45.15:037][864]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/BrokenTiles_Mat.BrokenTiles_Mat
