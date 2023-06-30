@@ -25,7 +25,6 @@
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Ropes/Ropes_BaseColor.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Ropes/Ropes_height.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Ropes/Ropes_normal.uasset",
-				"D:/DesignerCascadeScene/DesignerCascade/Content/Meshes/Ropesphere.uasset",
 				"D:/UE_5.1/Engine/Content/BasicShapes/Ropesphere.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/_GENERATED/pauli/Sphere_E3B07B57.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Meshes/MaterialsSpheres/Ropesphere.uasset",
@@ -33,7 +32,13 @@
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/BrokenTiles/BrokenTiles_ARM.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/BrokenTiles/BrokenTiles_BaseColor.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/BrokenTiles/BrokenTiles_Height.uasset",
-				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/BrokenTiles/BrokenTiles_Normal.uasset"
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/BrokenTiles/BrokenTiles_Normal.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Sculptures/Sculpture_ARM.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Sculptures/Sculpture_BaseColor.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Sculptures/Sculpture_Emissive.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Sculptures/Sculpture_Normal.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Materials/Sculpture_Mat.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Meshes/Ropesphere.uasset"
 			]
 		}
 	]
