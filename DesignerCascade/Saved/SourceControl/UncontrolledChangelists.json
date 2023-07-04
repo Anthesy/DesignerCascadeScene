@@ -44,9 +44,15 @@
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/WoodPlanks/WoodTexture_height.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/WoodPlanks/WoodTexture_normal.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Meshes/MaterialsSpheres/StoneBricksSphere.uasset",
-				"D:/DesignerCascadeScene/DesignerCascade/Content/Materials/Roots_Mat.uasset",
 				"D:/UE_5.1/Engine/Content/BasicShapes/PlanksSphere.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Meshes/MaterialsSpheres/PlanksSphere.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Roots/Roots_ARM.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Roots/Roots_BaseColor.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Roots/Roots_Height.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Roots/Roots_Normal.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Materials/Roots_Mat.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Meshes/MaterialsSpheres/Roots_Sphere.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Materials/Roots_Mat.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Meshes/Ropesphere.uasset"
 			]
 		}
