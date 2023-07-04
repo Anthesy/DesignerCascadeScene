@@ -38,6 +38,15 @@
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Sculptures/Sculpture_Emissive.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Sculptures/Sculpture_Normal.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Materials/Sculpture_Mat.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Materials/WoodPlanks_Mat.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/WoodPlanks/WoodTexture_ARM.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/WoodPlanks/WoodTexture_BaseColor.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/WoodPlanks/WoodTexture_height.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/WoodPlanks/WoodTexture_normal.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Meshes/MaterialsSpheres/StoneBricksSphere.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Materials/Roots_Mat.uasset",
+				"D:/UE_5.1/Engine/Content/BasicShapes/PlanksSphere.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Meshes/MaterialsSpheres/PlanksSphere.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Meshes/Ropesphere.uasset"
 			]
 		}
