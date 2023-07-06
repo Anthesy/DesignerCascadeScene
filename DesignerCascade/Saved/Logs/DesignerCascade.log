@@ -5953,3 +5953,204 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.06-11.42.35:151][142]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/Emissive_Master.Emissive_Master
 [2023.07.06-11.42.35:151][142]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Waterfall_Mat.Waterfall_Mat
 [2023.07.06-11.42.35:155][143]LogAutomationController: Ignoring very large delta of 3.21 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.07.06-11.42.46:925][183]LogEditorViewport: Clicking Background
+[2023.07.06-11.43.45:494][597]LogEditorViewport: Clicking Background
+[2023.07.06-11.44.07:375][290]Cmd: TRANSACTION UNDO
+[2023.07.06-11.44.07:375][290]LogEditorTransaction: Undo Move Elements
+[2023.07.06-11.44.11:125][418]Cmd: TRANSACTION UNDO
+[2023.07.06-11.44.11:126][418]LogEditorTransaction: Undo Move Elements
+[2023.07.06-11.44.30:850][ 16]LogEditorViewport: Clicking Background
+[2023.07.06-11.46.37:598][607]LogEditorViewport: Clicking Background
+[2023.07.06-11.48.13:469][269]LogEditorViewport: Clicking Background
+[2023.07.06-11.52.13:684][191]LogEditorViewport: Clicking Background
+[2023.07.06-11.53.03:379][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.07.06-11.53.03:384][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneMap" FILE="../../../../DesignerCascadeScene/DesignerCascade/Saved/Autosaves/Game/SceneMap_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.07.06-11.53.03:517][462]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SceneMap_Auto8
+[2023.07.06-11.53.03:517][462]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/SceneMap_Auto866EA5ED540D576DF1FD8ABA5EE2E0AED.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Saved/Autosaves/Game/SceneMap_Auto8.umap'
+[2023.07.06-11.53.03:526][462]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SceneMap' took 0.158
+[2023.07.06-11.53.03:526][462]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.158
+[2023.07.06-11.56.27:336][928]LogEditorViewport: Clicking Background
+[2023.07.06-11.57.02:376][278]LogSlate: Window 'Color Picker' being destroyed
+[2023.07.06-11.57.06:071][544]LogEditorViewport: Clicking Background
+[2023.07.06-11.57.11:059][738]LogEditorViewport: Clicking Background
+[2023.07.06-11.57.18:344][977]LogEditorViewport: Clicking Background
+[2023.07.06-11.58.39:592][558]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.58.39:706][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneMap" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.06-11.58.39:719][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.07.06-11.58.39:855][558]LogSavePackage: Moving output files for package: /Game/SceneMap
+[2023.07.06-11.58.39:855][558]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/SceneMapE9C149D949039439210AA4971FB20E72.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap'
+[2023.07.06-11.58.39:869][558]LogFileHelpers: Saving map 'SceneMap' took 0.164
+[2023.07.06-11.58.39:888][558]LogFileHelpers: InternalPromptForCheckoutAndSave took 296 ms (total: 1:12 min)
+[2023.07.06-11.58.39:893][558]AssetCheck: New page: Asset Save: SceneMap
+[2023.07.06-11.58.39:893][558]LogContentValidation: Display: Validating /Script/Engine.World /Game/SceneMap.SceneMap
+[2023.07.06-11.58.54:073][395]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.07.06-11.58.54:073][395]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Sphere.Sphere
+[2023.07.06-11.58.54:075][395]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_71
+[2023.07.06-11.58.54:075][395]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Sphere.Sphere as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_71
+[2023.07.06-11.59.00:503][901]LogEditorViewport: Clicking Background
+[2023.07.06-11.59.05:842][356]LogEditorViewport: Clicking Background
+[2023.07.06-11.59.09:788][678]LogEditorViewport: Clicking Background
+[2023.07.06-11.59.14:858][122]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2023.07.06-11.59.14:858][122]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2023.07.06-11.59.14:859][122]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_73
+[2023.07.06-11.59.14:859][122]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_73
+[2023.07.06-11.59.16:023][210]Cmd: DELETE
+[2023.07.06-11.59.16:023][210]Cmd: ACTOR DELETE
+[2023.07.06-11.59.16:030][210]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.07.06-11.59.16:044][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.07.06-11.59.16:049][210]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2023.07.06-11.59.39:316][861]LogContentBrowser: Attempting asset rename: Ropesphere_2 -> RocksSphere
+[2023.07.06-11.59.39:348][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.59.39:407][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/MaterialsSpheres/RocksSphere" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/Meshes/MaterialsSpheres/RocksSphere.uasset" SILENT=true
+[2023.07.06-11.59.39:413][861]LogSavePackage: Moving output files for package: /Game/Meshes/MaterialsSpheres/RocksSphere
+[2023.07.06-11.59.39:413][861]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/RocksSphereACF6D99E4F158C11641140B8711A1CE1.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/Meshes/MaterialsSpheres/RocksSphere.uasset'
+[2023.07.06-11.59.39:421][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1:12 min)
+[2023.07.06-11.59.39:438][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.07.06-11.59.39:452][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.07.06-11.59.39:462][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.07.06-11.59.39:467][861]AssetCheck: New page: Asset Save: RocksSphere
+[2023.07.06-11.59.39:467][861]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/MaterialsSpheres/RocksSphere.RocksSphere
+[2023.07.06-11.59.41:183][990]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/MaterialsSpheres/RocksSphere.RocksSphere
+[2023.07.06-11.59.41:183][990]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Meshes/MaterialsSpheres/RocksSphere.RocksSphere
+[2023.07.06-11.59.41:183][990]LogActorFactory: Actor Factory spawned StaticMesh /Game/Meshes/MaterialsSpheres/RocksSphere.RocksSphere as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_77
+[2023.07.06-11.59.42:721][130]LogEditorViewport: Clicking Background
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display: ================================================
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display: Total job queries 3148, among them cache hits 2308 (73.32%)
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display: Tracking 834 distinct input hashes that result in 434 distinct outputs (52.04%)
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display: RAM used: 5.57 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.34%
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display: Shaders Compiled: 672
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display: Jobs assigned 672, completed 672 (100.00%)
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display: Average time worker was idle: 66.75 s
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display: Time job spent in pending queue: average 0.91 s, longest 13.08 s
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display: Job execution time: average 0.80 s, max 10.73 s
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display: Job life time (pending + execution): average 1.71 s, max 13.80
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 175.15 s
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display: Jobs were issued in 672 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display: Average processing rate: 3.84 jobs/sec
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display: Total thread time: 383.72 s
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display: Total thread preprocess time: 22.97 s
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display: Percentage time preprocessing: 5.99%
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display: Effective parallelization: 2.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    9 times, average 0.72 sec, max 0.88 sec, min 0.57 sec)
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   97 times, average 0.70 sec, max 0.98 sec, min 0.56 sec)
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   13 times, average 0.68 sec, max 0.76 sec, min 0.62 sec)
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    9 times, average 0.68 sec, max 0.89 sec, min 0.53 sec)
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   16 times, average 0.67 sec, max 0.80 sec, min 0.59 sec)
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.81% of total time (compiled   97 times, average 0.70 sec, max 0.98 sec, min 0.56 sec)
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.28% of total time (compiled  100 times, average 0.66 sec, max 0.88 sec, min 0.49 sec)
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.91% of total time (compiled   64 times, average 0.59 sec, max 0.81 sec, min 0.45 sec)
+[2023.07.06-11.59.43:998][211]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.40% of total time (compiled   64 times, average 0.38 sec, max 0.60 sec, min 0.30 sec)
+[2023.07.06-11.59.43:999][211]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 3.09% of total time (compiled   19 times, average 0.62 sec, max 0.75 sec, min 0.55 sec)
+[2023.07.06-11.59.43:999][211]LogShaderCompilers: Display: ================================================
+[2023.07.06-11.59.45:983][332]LogEditorViewport: Clicking Background
+[2023.07.06-11.59.46:512][379]LogEditorViewport: Clicking Background
+[2023.07.06-11.59.51:272][790]LogViewport: Scene viewport resized to 1246x535, mode Windowed.
+[2023.07.06-11.59.53:535][987]LogTexture: Call to GetPlatformData() is forcing a wait on data that is not yet ready.
+[2023.07.06-12.00.13:828][748]LogStaticMesh: Display: Building static mesh RocksSphere...
+[2023.07.06-12.00.13:846][748]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Meshes/MaterialsSpheres/RocksSphere) ...
+[2023.07.06-12.00.14:304][748]LogStaticMesh: Built static mesh [0.48s] /Game/Meshes/MaterialsSpheres/RocksSphere.RocksSphere
+[2023.07.06-12.00.14:479][749]LogEditorViewport: Clicking Background
+[2023.07.06-12.00.18:287][991]LogEditorViewport: Clicking Background
+[2023.07.06-12.00.22:304][399]LogViewport: Scene viewport resized to 1488x648, mode Windowed.
+[2023.07.06-12.00.22:911][449]LogEditorViewport: Clicking Background
+[2023.07.06-12.00.36:486][578]LogEditorViewport: Clicking Background
+[2023.07.06-12.00.52:837][990]LogEditorViewport: Clicking Background
+[2023.07.06-12.01.01:247][577]LogEditorViewport: Clicking Background
+[2023.07.06-12.01.03:628][692]LogEditorViewport: Clicking Background
+[2023.07.06-12.01.21:462][468]LogEditorViewport: Clicking Background
+[2023.07.06-12.02.20:545][352]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.06-12.02.20:677][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.06-12.02.20:686][352]PIE: New page: PIE session: SceneMap (6 juil. 2023 à 16:02:20)
+[2023.07.06-12.02.20:802][352]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.07.06-12.02.20:805][352]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.07.06-12.02.20:816][352]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SceneMap
+[2023.07.06-12.02.21:190][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.373640s)
+[2023.07.06-12.02.21:190][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SceneMap.SceneMap to /Game/UEDPIE_0_SceneMap.SceneMap (0.374200s)
+[2023.07.06-12.02.21:201][352]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.06-12.02.21:202][352]LogAIModule: Creating AISystem for world SceneMap
+[2023.07.06-12.02.21:203][352]LogPlayLevel: PIE: World Init took: (0.013131s)
+[2023.07.06-12.02.21:227][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.07.06-12.02.21:248][352]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.07.06-12.02.21:248][352]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.06-12.02.21:248][352]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.06-12.02.21:248][352]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.06-12.02.21:248][352]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.06-12.02.21:248][352]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.06-12.02.21:248][352]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.06-12.02.21:248][352]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.06-12.02.21:248][352]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.06-12.02.21:248][352]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.06-12.02.21:248][352]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.06-12.02.21:248][352]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.06-12.02.21:260][352]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.06-12.02.21:285][352]LogAudioMixer: Display: Using Audio Hardware Device Casque (Synaptics HD Audio)
+[2023.07.06-12.02.21:286][352]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.06-12.02.21:286][352]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.06-12.02.21:286][352]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.06-12.02.21:286][352]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.07.06-12.02.21:286][352]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.07.06-12.02.21:288][352]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.07.06-12.02.21:288][352]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.07.06-12.02.21:288][352]LogInit: FAudioDevice initialized.
+[2023.07.06-12.02.21:288][352]LogAudio: Display: Audio Device (ID: 2) registered with world 'SceneMap'.
+[2023.07.06-12.02.21:323][352]LogLoad: Game class is 'GameModeBase'
+[2023.07.06-12.02.21:332][352]LogWorld: Bringing World /Game/UEDPIE_0_SceneMap.SceneMap up for play (max tick rate 0) at 2023.07.06-14.02.21
+[2023.07.06-12.02.21:367][352]LogWorld: Bringing up level for play took: 0.029541
+[2023.07.06-12.02.21:401][352]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.07.06-12.02.21:724][352]PIE: Server logged in
+[2023.07.06-12.02.21:725][352]PIE: Play in editor total start time 1,159 seconds.
+[2023.07.06-12.02.27:525][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.06-12.02.27:533][499]LogWorld: BeginTearingDown for /Game/UEDPIE_0_SceneMap
+[2023.07.06-12.02.27:564][499]LogWorld: UWorld::CleanupWorld for SceneMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.06-12.02.27:595][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-12.02.27:644][499]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.06-12.02.27:651][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-12.02.27:704][499]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.06-12.02.27:757][499]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.07.06-12.02.27:759][499]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.07.06-12.02.27:771][499]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.06-12.02.27:850][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.07.06-12.02.27:899][500]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.07.06-12.09.07:309][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.07.06-12.09.07:312][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneMap" FILE="../../../../DesignerCascadeScene/DesignerCascade/Saved/Autosaves/Game/SceneMap_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.07.06-12.09.07:439][161]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SceneMap_Auto9
+[2023.07.06-12.09.07:439][161]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/SceneMap_Auto92D24712D4F2547CCC97C6FB1B8735E51.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Saved/Autosaves/Game/SceneMap_Auto9.umap'
+[2023.07.06-12.09.07:447][161]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SceneMap' took 0.149
+[2023.07.06-12.09.07:448][161]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.149
+[2023.07.06-12.09.07:448][161]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/MaterialsSpheres/RocksSphere] ([1] browsable assets)...
+[2023.07.06-12.09.07:547][161]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/MaterialsSpheres/RocksSphere.RocksSphere]
+[2023.07.06-12.09.07:547][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/MaterialsSpheres/RocksSphere]
+[2023.07.06-12.09.07:663][161]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/MaterialsSpheres/RocksSphere_Auto9
+[2023.07.06-12.09.07:663][161]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/RocksSphere_Auto999621ECA47CF98908A84B686E9EE1BF6.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Saved/Autosaves/Game/Meshes/MaterialsSpheres/RocksSphere_Auto9.uasset'
+[2023.07.06-12.09.07:665][161]LogFileHelpers: Auto-saving content packages took 0.218
+[2023.07.06-12.14.04:480][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.07.06-12.14.05:458][ 92]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-12.14.05:468][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-12.14.05:515][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneMap" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.06-12.14.05:527][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.07.06-12.14.05:668][ 92]LogSavePackage: Moving output files for package: /Game/SceneMap
+[2023.07.06-12.14.05:669][ 92]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/SceneMap0BC0C186471BD8C4991A419BFFE60972.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap'
+[2023.07.06-12.14.05:684][ 92]LogFileHelpers: Saving map 'SceneMap' took 0.168
+[2023.07.06-12.14.05:684][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/MaterialsSpheres/RocksSphere" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/Meshes/MaterialsSpheres/RocksSphere.uasset" SILENT=true
+[2023.07.06-12.14.05:732][ 92]LogSavePackage: Moving output files for package: /Game/Meshes/MaterialsSpheres/RocksSphere
+[2023.07.06-12.14.05:732][ 92]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/RocksSphere1DA941164274222504E1BDA66BD6CF81.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/Meshes/MaterialsSpheres/RocksSphere.uasset'
+[2023.07.06-12.14.05:755][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave took 287 ms (total: 1:12 min)
+[2023.07.06-12.14.05:758][ 92]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.06-12.14.05:758][ 92]LogContentValidation: Display: Validating /Script/Engine.World /Game/SceneMap.SceneMap
+[2023.07.06-12.14.05:758][ 92]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/MaterialsSpheres/RocksSphere.RocksSphere
+[2023.07.06-12.14.15:157][383]LogEditorViewport: Clicking Background
+[2023.07.06-12.15.03:813][927]LogEditorViewport: Clicking Background
+[2023.07.06-12.15.30:954][790]LogEditorViewport: Clicking Background
+[2023.07.06-12.15.31:396][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-12.15.31:463][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneMap" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.06-12.15.31:474][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.07.06-12.15.31:604][802]LogSavePackage: Moving output files for package: /Game/SceneMap
+[2023.07.06-12.15.31:605][802]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/SceneMapD1DC98874F925628A0BF8784954A3E42.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap'
+[2023.07.06-12.15.31:617][802]LogFileHelpers: Saving map 'SceneMap' took 0.153
+[2023.07.06-12.15.31:623][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 227 ms (total: 1:12 min)
+[2023.07.06-12.15.31:629][802]AssetCheck: New page: Asset Save: SceneMap
+[2023.07.06-12.15.31:629][802]LogContentValidation: Display: Validating /Script/Engine.World /Game/SceneMap.SceneMap
