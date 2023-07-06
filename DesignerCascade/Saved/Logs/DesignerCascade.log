@@ -5638,3 +5638,318 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.06-11.28.02:635][234]AssetCheck: New page: Asset Save: multiple assets
 [2023.07.06-11.28.02:635][234]LogContentValidation: Display: Validating /Script/Engine.World /Game/SceneMap.SceneMap
 [2023.07.06-11.28.02:635][234]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/Waterfall.Waterfall
+[2023.07.06-11.30.39:226][711]LogEditorViewport: Clicking Background
+[2023.07.06-11.30.59:589][719]LogSlate: Window 'Color Picker' being destroyed
+[2023.07.06-11.31.58:091][635]LogSlate: Window 'Color Picker' being destroyed
+[2023.07.06-11.32.04:862][ 62]LogSlate: Window 'Color Picker' being destroyed
+[2023.07.06-11.32.05:311][ 83]LogEditorViewport: Clicking Background
+[2023.07.06-11.32.15:039][374]LogEditorViewport: Clicking Background
+[2023.07.06-11.32.18:473][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.32.18:577][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneMap" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.06-11.32.18:589][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.07.06-11.32.18:729][518]LogSavePackage: Moving output files for package: /Game/SceneMap
+[2023.07.06-11.32.18:730][518]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/SceneMapFD622AC5471B097CF95FE69A05B21BAB.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap'
+[2023.07.06-11.32.18:742][518]LogFileHelpers: Saving map 'SceneMap' took 0.166
+[2023.07.06-11.32.18:750][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 277 ms (total: 1:06 min)
+[2023.07.06-11.32.18:755][518]AssetCheck: New page: Asset Save: SceneMap
+[2023.07.06-11.32.18:755][518]LogContentValidation: Display: Validating /Script/Engine.World /Game/SceneMap.SceneMap
+[2023.07.06-11.32.47:830][958]LogEditorViewport: Clicking Background
+[2023.07.06-11.36.18:786][750]LogEditorViewport: Clicking Background
+[2023.07.06-11.36.50:980][357]LogContentBrowser: Deferred new asset file creation: Waterfall_Master_Inst
+[2023.07.06-11.36.51:109][357]LogContentBrowser: Creating deferred item: Waterfall_Master_Inst
+[2023.07.06-11.36.51:119][358]LogContentBrowser: Renaming the item being created (Deferred Item: Waterfall_Master_Inst).
+[2023.07.06-11.36.56:406][553]LogContentBrowser: Attempting asset rename: Waterfall_Master_Inst -> Waterfall_Mat
+[2023.07.06-11.36.56:407][553]LogContentBrowser: End creating deferred item Waterfall_Master_Inst
+[2023.07.06-11.37.00:565][740]LogEditorViewport: Clicking Background
+[2023.07.06-11.37.47:179][271]Cmd: DELETE
+[2023.07.06-11.37.47:179][271]Cmd: ACTOR DELETE
+[2023.07.06-11.37.47:180][271]LogEditorActor: Cannot delete component StaticMeshComponent /Game/SceneMap.SceneMap:PersistentLevel.MediaPlate_0.StaticMeshComponent: Can't delete non-instanced components or the scene root.
+[2023.07.06-11.37.48:654][334]Cmd: DELETE
+[2023.07.06-11.37.48:654][334]Cmd: ACTOR DELETE
+[2023.07.06-11.37.48:654][334]LogEditorActor: Cannot delete component StaticMeshComponent /Game/SceneMap.SceneMap:PersistentLevel.MediaPlate_0.StaticMeshComponent: Can't delete non-instanced components or the scene root.
+[2023.07.06-11.37.49:162][357]LogEditorViewport: Clicking Background
+[2023.07.06-11.37.49:829][384]Cmd: DELETE
+[2023.07.06-11.37.49:829][384]Cmd: ACTOR DELETE
+[2023.07.06-11.37.49:834][384]LogEditorActor: Deleted Actor: MediaPlate
+[2023.07.06-11.37.49:845][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.07.06-11.37.49:848][384]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.07.06-11.38.15:214][581]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Waterfall_Master.Waterfall_Master
+[2023.07.06-11.38.15:219][581]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.06-11.38.15:411][581]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.06-11.38.15:411][581]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.06-11.38.15:411][581]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.06-11.38.15:411][581]MaterialEditorStats: Shader Count: 0
+[2023.07.06-11.38.15:417][581]LogViewport: Scene viewport resized to 290x278, mode Windowed.
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display: ================================================
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display: Total job queries 2984, among them cache hits 2204 (73.86%)
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display: Tracking 774 distinct input hashes that result in 413 distinct outputs (53.36%)
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display: RAM used: 5.18 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.32%
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display: Shaders Compiled: 614
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display: Jobs assigned 614, completed 614 (100.00%)
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display: Average time worker was idle: 63.17 s
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display: Time job spent in pending queue: average 0.97 s, longest 13.08 s
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display: Job execution time: average 0.81 s, max 10.73 s
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display: Job life time (pending + execution): average 1.77 s, max 13.80
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 160.71 s
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display: Jobs were issued in 614 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display: Average processing rate: 3.82 jobs/sec
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display: Total thread time: 348.20 s
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display: Total thread preprocess time: 20.93 s
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display: Percentage time preprocessing: 6.01%
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display: Effective parallelization: 2.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    9 times, average 0.72 sec, max 0.88 sec, min 0.57 sec)
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   87 times, average 0.70 sec, max 0.98 sec, min 0.56 sec)
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   11 times, average 0.68 sec, max 0.76 sec, min 0.62 sec)
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    9 times, average 0.68 sec, max 0.89 sec, min 0.53 sec)
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   14 times, average 0.67 sec, max 0.80 sec, min 0.59 sec)
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.07.06-11.38.15:497][582]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.52% of total time (compiled   87 times, average 0.70 sec, max 0.98 sec, min 0.56 sec)
+[2023.07.06-11.38.15:498][582]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.08% of total time (compiled   90 times, average 0.66 sec, max 0.88 sec, min 0.49 sec)
+[2023.07.06-11.38.15:498][582]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.66% of total time (compiled   57 times, average 0.59 sec, max 0.81 sec, min 0.45 sec)
+[2023.07.06-11.38.15:498][582]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.26% of total time (compiled   57 times, average 0.38 sec, max 0.60 sec, min 0.30 sec)
+[2023.07.06-11.38.15:498][582]LogShaderCompilers: Display:                                                FMeshDecalsVS - 3.30% of total time (compiled   20 times, average 0.57 sec, max 0.70 sec, min 0.53 sec)
+[2023.07.06-11.38.15:498][582]LogShaderCompilers: Display: ================================================
+[2023.07.06-11.38.15:532][583]MaterialEditorStats: Base pass shader: 243 instructions
+[2023.07.06-11.38.15:532][583]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.07.06-11.38.15:532][583]MaterialEditorStats: Texture samplers: 5/16
+[2023.07.06-11.38.15:532][583]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.06-11.38.15:532][583]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.06-11.38.15:532][583]MaterialEditorStats: Shader Count: 4
+[2023.07.06-11.38.36:795][210]LogEditorTransaction: Undo Move Nodes
+[2023.07.06-11.38.38:479][283]LogEditorTransaction: Undo Move Node
+[2023.07.06-11.39.42:217][920]LogMaterialEditor: Saving and Compiling material Waterfall_Master
+[2023.07.06-11.39.42:838][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.07.06-11.39.43:053][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.07.06-11.39.43:066][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.39.43:177][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Waterfall_Master" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/Materials/Waterfall_Master.uasset" SILENT=true
+[2023.07.06-11.39.43:180][920]LogSavePackage: Moving output files for package: /Game/Materials/Waterfall_Master
+[2023.07.06-11.39.43:181][920]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/Waterfall_Master73800B8641B95E141318C3886F2A10AF.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/Materials/Waterfall_Master.uasset'
+[2023.07.06-11.39.43:189][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 1:06 min)
+[2023.07.06-11.39.43:193][920]AssetCheck: New page: Asset Save: Waterfall_Master
+[2023.07.06-11.39.43:193][920]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/Waterfall_Master.Waterfall_Master
+[2023.07.06-11.39.43:194][920]MaterialEditorStats: Base pass shader: 243 instructions
+[2023.07.06-11.39.43:194][920]MaterialEditorStats: Base pass vertex shader: 260 instructions
+[2023.07.06-11.39.43:194][920]MaterialEditorStats: MaxSampler: 292 instructions
+[2023.07.06-11.39.43:194][920]MaterialEditorStats: Texture samplers: 6/16
+[2023.07.06-11.39.43:194][920]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.07.06-11.39.43:194][920]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.06-11.39.43:194][920]MaterialEditorStats: Shader Count: 16
+[2023.07.06-11.39.45:408][  2]LogSlate: Window 'Waterfall_Master' being destroyed
+[2023.07.06-11.39.45:418][  2]LogSlate: Window 'Waterfall_Master' being destroyed
+[2023.07.06-11.39.45:430][  2]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.07.06-11.39.45:430][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-11.39.46:226][ 35]LogEditorViewport: Clicking Background
+[2023.07.06-11.39.50:755][263]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.07.06-11.39.50:761][263]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.07.06-11.39.50:770][264]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.07.06-11.39.58:702][568]LogContentBrowser: Attempting asset rename: NewMaterial -> Emissive_Master
+[2023.07.06-11.39.58:702][568]LogContentBrowser: End creating deferred item NewMaterial
+[2023.07.06-11.40.00:407][632]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Emissive_Master.Emissive_Master
+[2023.07.06-11.40.00:410][632]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.06-11.40.00:590][632]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.06-11.40.00:590][632]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.06-11.40.00:590][632]MaterialEditorStats: Shader Count: 0
+[2023.07.06-11.40.00:596][632]LogViewport: Scene viewport resized to 290x278, mode Windowed.
+[2023.07.06-11.40.01:623][668]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.07.06-11.40.01:623][668]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.06-11.40.01:623][668]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.06-11.40.01:623][668]MaterialEditorStats: Shader Count: 3
+[2023.07.06-11.40.01:708][670]MaterialEditorStats: Base pass shader: 211 instructions
+[2023.07.06-11.40.01:708][670]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.07.06-11.40.01:708][670]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.06-11.40.01:708][670]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.06-11.40.01:708][670]MaterialEditorStats: Shader Count: 4
+[2023.07.06-11.40.13:586][744]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.06-11.40.13:587][744]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.06-11.40.13:587][744]MaterialEditorStats: Shader Count: 0
+[2023.07.06-11.40.17:219][988]MaterialEditorStats: Base pass shader: 211 instructions
+[2023.07.06-11.40.17:219][988]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.07.06-11.40.17:219][988]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.06-11.40.17:219][988]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.06-11.40.17:219][988]MaterialEditorStats: Shader Count: 4
+[2023.07.06-11.40.17:481][997]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.06-11.40.17:481][997]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.06-11.40.17:481][997]MaterialEditorStats: Shader Count: 0
+[2023.07.06-11.40.17:530][999]MaterialEditorStats: Base pass shader: 211 instructions
+[2023.07.06-11.40.17:530][999]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.07.06-11.40.17:530][999]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.06-11.40.17:530][999]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.06-11.40.17:530][999]MaterialEditorStats: Shader Count: 4
+[2023.07.06-11.40.20:726][270]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.06-11.40.20:726][270]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.06-11.40.20:726][270]MaterialEditorStats: Shader Count: 0
+[2023.07.06-11.40.21:729][322]MaterialEditorStats: Base pass shader: 211 instructions
+[2023.07.06-11.40.21:729][322]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.07.06-11.40.21:729][322]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.06-11.40.21:729][322]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.06-11.40.21:729][322]MaterialEditorStats: Shader Count: 4
+[2023.07.06-11.40.23:334][424]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.06-11.40.23:334][424]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.06-11.40.23:334][424]MaterialEditorStats: Shader Count: 0
+[2023.07.06-11.40.24:413][461]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.07.06-11.40.24:413][461]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.06-11.40.24:413][461]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.06-11.40.24:413][461]MaterialEditorStats: Shader Count: 3
+[2023.07.06-11.40.24:501][464]MaterialEditorStats: Base pass shader: 215 instructions
+[2023.07.06-11.40.24:501][464]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.07.06-11.40.24:501][464]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.06-11.40.24:501][464]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.06-11.40.24:501][464]MaterialEditorStats: Shader Count: 4
+[2023.07.06-11.40.31:382][851]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.06-11.40.31:382][851]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.06-11.40.31:382][851]MaterialEditorStats: Shader Count: 0
+[2023.07.06-11.40.32:237][878]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.07.06-11.40.32:237][878]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.06-11.40.32:237][878]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.06-11.40.32:237][878]MaterialEditorStats: Shader Count: 3
+[2023.07.06-11.40.32:340][882]MaterialEditorStats: Base pass shader: 215 instructions
+[2023.07.06-11.40.32:340][882]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.07.06-11.40.32:340][882]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.06-11.40.32:340][882]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.06-11.40.32:340][882]MaterialEditorStats: Shader Count: 4
+[2023.07.06-11.40.36:036][ 16]LogMaterialEditor: Saving and Compiling material Emissive_Master
+[2023.07.06-11.40.36:645][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.07.06-11.40.37:364][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.07.06-11.40.37:375][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.40.39:482][ 16]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.07.06-11.40.39:572][ 16]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002995s (0.090778s overbudget)
+[2023.07.06-11.40.39:603][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Emissive_Master" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/Materials/Emissive_Master.uasset" SILENT=true
+[2023.07.06-11.40.39:605][ 16]LogSavePackage: Moving output files for package: /Game/Materials/Emissive_Master
+[2023.07.06-11.40.39:605][ 16]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/Emissive_MasterB00D4B6444F1E0DF8516048A3FEB6437.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/Materials/Emissive_Master.uasset'
+[2023.07.06-11.40.39:613][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.23 sec (total: 1:08 min)
+[2023.07.06-11.40.39:616][ 16]AssetCheck: New page: Asset Save: Emissive_Master
+[2023.07.06-11.40.39:616][ 16]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/Emissive_Master.Emissive_Master
+[2023.07.06-11.40.39:617][ 16]MaterialEditorStats: Base pass shader: 215 instructions
+[2023.07.06-11.40.39:617][ 16]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.07.06-11.40.39:617][ 16]MaterialEditorStats: MaxSampler: 262 instructions
+[2023.07.06-11.40.39:617][ 16]MaterialEditorStats: Texture samplers: 3/16
+[2023.07.06-11.40.39:617][ 16]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.06-11.40.39:617][ 16]MaterialEditorStats: Shader Count: 16
+[2023.07.06-11.40.39:623][ 17]LogAutomationController: Ignoring very large delta of 3.59 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.07.06-11.40.41:721][128]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.06-11.40.41:721][128]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.06-11.40.41:721][128]MaterialEditorStats: Shader Count: 0
+[2023.07.06-11.40.42:677][162]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.07.06-11.40.42:677][162]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.06-11.40.42:677][162]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.06-11.40.42:677][162]MaterialEditorStats: Shader Count: 3
+[2023.07.06-11.40.42:763][165]MaterialEditorStats: Base pass shader: 215 instructions
+[2023.07.06-11.40.42:763][165]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.07.06-11.40.42:763][165]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.06-11.40.42:763][165]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.06-11.40.42:763][165]MaterialEditorStats: Shader Count: 4
+[2023.07.06-11.40.43:886][204]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.06-11.40.43:886][204]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.06-11.40.43:886][204]MaterialEditorStats: Shader Count: 0
+[2023.07.06-11.40.43:933][207]MaterialEditorStats: Base pass shader: 215 instructions
+[2023.07.06-11.40.43:933][207]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2023.07.06-11.40.43:933][207]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.06-11.40.43:933][207]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.07.06-11.40.43:933][207]MaterialEditorStats: Shader Count: 4
+[2023.07.06-11.40.49:095][412]LogSlate: Window 'Message' being destroyed
+[2023.07.06-11.40.49:108][412]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Materials/Emissive_Master.Emissive_Master
+(Selecting 'No' will cause all changes to be lost!)
+[2023.07.06-11.40.49:666][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.07.06-11.40.50:495][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.07.06-11.40.50:520][412]LogSlate: Window 'Emissive_Master' being destroyed
+[2023.07.06-11.40.50:523][412]LogSlate: Window 'Emissive_Master' being destroyed
+[2023.07.06-11.40.50:529][412]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.07.06-11.40.50:529][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-11.40.50:544][413]LogAutomationController: Ignoring very large delta of 2.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.07.06-11.40.53:158][612]LogContentBrowser: Deferred new asset file creation: Emissive_Master_Inst
+[2023.07.06-11.40.53:174][612]LogContentBrowser: Creating deferred item: Emissive_Master_Inst
+[2023.07.06-11.40.53:184][613]LogContentBrowser: Renaming the item being created (Deferred Item: Emissive_Master_Inst).
+[2023.07.06-11.40.58:066][788]LogContentBrowser: Attempting asset rename: Emissive_Master_Inst -> Eyes_Mat
+[2023.07.06-11.40.58:066][788]LogContentBrowser: End creating deferred item Emissive_Master_Inst
+[2023.07.06-11.40.59:205][831]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Eyes_Mat.Eyes_Mat
+[2023.07.06-11.40.59:207][831]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.06-11.40.59:400][831]LogViewport: Scene viewport resized to 918x560, mode Windowed.
+[2023.07.06-11.41.10:417][309]LogSlate: Window 'Color Picker' being destroyed
+[2023.07.06-11.41.11:689][356]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.41.11:772][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Eyes_Mat" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/Materials/Eyes_Mat.uasset" SILENT=true
+[2023.07.06-11.41.11:783][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.07.06-11.41.11:796][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.07.06-11.41.11:798][356]LogSavePackage: Moving output files for package: /Game/Materials/Eyes_Mat
+[2023.07.06-11.41.11:798][356]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/Eyes_MatF013C283421B29176B9D55992570F50B.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/Materials/Eyes_Mat.uasset'
+[2023.07.06-11.41.11:807][356]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 1:08 min)
+[2023.07.06-11.41.11:810][356]AssetCheck: New page: Asset Save: Eyes_Mat
+[2023.07.06-11.41.11:810][356]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Eyes_Mat.Eyes_Mat
+[2023.07.06-11.41.15:371][497]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.41.15:459][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Eyes_Mat" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/Materials/Eyes_Mat.uasset" SILENT=true
+[2023.07.06-11.41.15:467][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.07.06-11.41.15:478][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.07.06-11.41.15:480][497]LogSavePackage: Moving output files for package: /Game/Materials/Eyes_Mat
+[2023.07.06-11.41.15:481][497]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/Eyes_MatD210A138496085AFEF802FB27A21E71A.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/Materials/Eyes_Mat.uasset'
+[2023.07.06-11.41.15:490][497]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 1:09 min)
+[2023.07.06-11.41.15:494][497]AssetCheck: New page: Asset Save: Eyes_Mat
+[2023.07.06-11.41.15:494][497]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Eyes_Mat.Eyes_Mat
+[2023.07.06-11.41.16:225][529]LogSlate: Window 'Eyes_Mat' being destroyed
+[2023.07.06-11.41.16:234][529]LogSlate: Window 'Eyes_Mat' being destroyed
+[2023.07.06-11.41.16:239][529]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.07.06-11.41.16:239][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.06-11.41.20:787][761]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.07.06-11.41.20:787][761]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.07.06-11.41.20:788][761]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_67
+[2023.07.06-11.41.20:788][761]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/SceneMap.SceneMap:PersistentLevel.StaticMeshActor_67
+[2023.07.06-11.42.29:842][ 81]LogEditorViewport: Clicking Background
+[2023.07.06-11.42.31:459][130]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.42.31:587][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SceneMap" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.06-11.42.31:598][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.07.06-11.42.31:728][130]LogSavePackage: Moving output files for package: /Game/SceneMap
+[2023.07.06-11.42.31:729][130]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/SceneMap7897F2AF41D7FA0559F2CBA27B92D679.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap'
+[2023.07.06-11.42.31:741][130]LogFileHelpers: Saving map 'SceneMap' took 0.154
+[2023.07.06-11.42.31:746][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 288 ms (total: 1:09 min)
+[2023.07.06-11.42.31:751][130]AssetCheck: New page: Asset Save: SceneMap
+[2023.07.06-11.42.31:751][130]LogContentValidation: Display: Validating /Script/Engine.World /Game/SceneMap.SceneMap
+[2023.07.06-11.42.31:960][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.07.06-11.42.32:617][142]LogSlate: Window 'Save Content' being destroyed
+[2023.07.06-11.42.32:629][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.06-11.42.34:737][142]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.07.06-11.42.35:073][142]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000095s (0.341960s overbudget)
+[2023.07.06-11.42.35:075][142]LogShaderCompilers: Display: ================================================
+[2023.07.06-11.42.35:075][142]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.06-11.42.35:075][142]LogShaderCompilers: Display: Total job queries 3146, among them cache hits 2308 (73.36%)
+[2023.07.06-11.42.35:075][142]LogShaderCompilers: Display: Tracking 832 distinct input hashes that result in 433 distinct outputs (52.04%)
+[2023.07.06-11.42.35:075][142]LogShaderCompilers: Display: RAM used: 5.56 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.34%
+[2023.07.06-11.42.35:075][142]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.06-11.42.35:075][142]LogShaderCompilers: Display: Shaders Compiled: 672
+[2023.07.06-11.42.35:075][142]LogShaderCompilers: Display: Jobs assigned 672, completed 672 (100.00%)
+[2023.07.06-11.42.35:075][142]LogShaderCompilers: Display: Average time worker was idle: 66.75 s
+[2023.07.06-11.42.35:075][142]LogShaderCompilers: Display: Time job spent in pending queue: average 0.91 s, longest 13.08 s
+[2023.07.06-11.42.35:075][142]LogShaderCompilers: Display: Job execution time: average 0.80 s, max 10.73 s
+[2023.07.06-11.42.35:075][142]LogShaderCompilers: Display: Job life time (pending + execution): average 1.71 s, max 13.80
+[2023.07.06-11.42.35:075][142]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 175.15 s
+[2023.07.06-11.42.35:075][142]LogShaderCompilers: Display: Jobs were issued in 672 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.07.06-11.42.35:075][142]LogShaderCompilers: Display: Average processing rate: 3.84 jobs/sec
+[2023.07.06-11.42.35:076][142]LogShaderCompilers: Display: Total thread time: 383.72 s
+[2023.07.06-11.42.35:076][142]LogShaderCompilers: Display: Total thread preprocess time: 22.97 s
+[2023.07.06-11.42.35:076][142]LogShaderCompilers: Display: Percentage time preprocessing: 5.99%
+[2023.07.06-11.42.35:076][142]LogShaderCompilers: Display: Effective parallelization: 2.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.07.06-11.42.35:076][142]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.07.06-11.42.35:076][142]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    9 times, average 0.72 sec, max 0.88 sec, min 0.57 sec)
+[2023.07.06-11.42.35:076][142]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   97 times, average 0.70 sec, max 0.98 sec, min 0.56 sec)
+[2023.07.06-11.42.35:076][142]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   13 times, average 0.68 sec, max 0.76 sec, min 0.62 sec)
+[2023.07.06-11.42.35:076][142]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    9 times, average 0.68 sec, max 0.89 sec, min 0.53 sec)
+[2023.07.06-11.42.35:076][142]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   16 times, average 0.67 sec, max 0.80 sec, min 0.59 sec)
+[2023.07.06-11.42.35:076][142]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.07.06-11.42.35:076][142]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.81% of total time (compiled   97 times, average 0.70 sec, max 0.98 sec, min 0.56 sec)
+[2023.07.06-11.42.35:076][142]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.28% of total time (compiled  100 times, average 0.66 sec, max 0.88 sec, min 0.49 sec)
+[2023.07.06-11.42.35:076][142]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.91% of total time (compiled   64 times, average 0.59 sec, max 0.81 sec, min 0.45 sec)
+[2023.07.06-11.42.35:076][142]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.40% of total time (compiled   64 times, average 0.38 sec, max 0.60 sec, min 0.30 sec)
+[2023.07.06-11.42.35:076][142]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 3.09% of total time (compiled   19 times, average 0.62 sec, max 0.75 sec, min 0.55 sec)
+[2023.07.06-11.42.35:076][142]LogShaderCompilers: Display: ================================================
+[2023.07.06-11.42.35:121][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Emissive_Master" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/Materials/Emissive_Master.uasset" SILENT=true
+[2023.07.06-11.42.35:123][142]LogSavePackage: Moving output files for package: /Game/Materials/Emissive_Master
+[2023.07.06-11.42.35:123][142]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/Emissive_Master49712EFA42D65AB639F3FEBA1F0CBD56.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/Materials/Emissive_Master.uasset'
+[2023.07.06-11.42.35:138][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Waterfall_Mat" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/Materials/Waterfall_Mat.uasset" SILENT=true
+[2023.07.06-11.42.35:139][142]LogSavePackage: Moving output files for package: /Game/Materials/Waterfall_Mat
+[2023.07.06-11.42.35:139][142]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/Waterfall_Mat5BCB870E42D61120E0B6D0BEFD4EE77E.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/Materials/Waterfall_Mat.uasset'
+[2023.07.06-11.42.35:145][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.51 sec (total: 1:11 min)
+[2023.07.06-11.42.35:151][142]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.06-11.42.35:151][142]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/Emissive_Master.Emissive_Master
+[2023.07.06-11.42.35:151][142]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Waterfall_Mat.Waterfall_Mat
+[2023.07.06-11.42.35:155][143]LogAutomationController: Ignoring very large delta of 3.21 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
