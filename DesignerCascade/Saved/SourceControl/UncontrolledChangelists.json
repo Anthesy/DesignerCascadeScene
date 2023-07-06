@@ -64,6 +64,12 @@
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Ferns/Ferns_BaseColor.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Ferns/Ferns_Mask.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Ferns/Ferns_Normal.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Materials/Rocks_Mat.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Rocks/Rocks_AO.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Rocks/Rocks_height.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Rocks/Rocks_normal.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Rocks/Rocks_ARM.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Rocks/Rocks_Basecolor.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Meshes/Ropesphere.uasset"
 			]
 		}
