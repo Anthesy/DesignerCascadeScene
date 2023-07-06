@@ -70,6 +70,12 @@
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Rocks/Rocks_normal.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Rocks/Rocks_ARM.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Rocks/Rocks_Basecolor.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Materials/Decals_Master.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Materials/WaterFallDecal_Master.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Materials/WaterFallDecal_Mat.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Waterfall/noises/PerlinNoise1.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Waterfall/noises/VoronoiTexture1.uasset",
+				"D:/DesignerCascadeScene/DesignerCascade/Content/Textures/Waterfall/WaterDecal.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/Meshes/Ropesphere.uasset"
 			]
 		}
