@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/liamd/Documents/ALL2/DesignerCascadeScene/DesignerCascade/Content/VFX/NewNiagaraSystem.uasset",
+				"C:/Users/liamd/Documents/ALL2/DesignerCascadeScene/DesignerCascade/Content/Materials/MT_Smoke_vfx_waterfall.uasset",
+				"C:/Users/liamd/Documents/ALL2/DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/SceneMap.umap",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/BP/Spline_BP.uasset",
 				"D:/DesignerCascadeScene/DesignerCascade/Content/_GENERATED/pauli/Box_2032EF22.uasset",
