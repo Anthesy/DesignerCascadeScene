@@ -1864,3 +1864,127 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.08-15.29.12:107][902]AssetCheck: New page: Asset Save: multiple assets
 [2023.08.08-15.29.12:107][902]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Meshes/Bubble/Leaf.Leaf
 [2023.08.08-15.29.12:107][902]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Textures/Bubble/Leaf_BaseColor.Leaf_BaseColor
+[2023.08.08-15.29.23:129][ 67]LogEditorViewport: Clicking Background
+[2023.08.08-15.30.02:023][277]LogEditorViewport: Clicking Background
+[2023.08.08-15.30.05:079][600]Cmd: DELETE
+[2023.08.08-15.30.05:080][600]Cmd: ACTOR DELETE
+[2023.08.08-15.30.05:081][600]LogEditorActor: Deleted Actor: DirectionalLight
+[2023.08.08-15.30.05:091][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.08.08-15.30.05:093][600]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2023.08.08-15.30.06:426][718]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.08.08-15.30.08:643][939]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.08.08-15.30.08:643][939]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2023.08.08-15.30.18:355][978]LogEditorViewport: Clicking Background
+[2023.08.08-15.30.39:058][231]LogEditorViewport: Clicking Background
+[2023.08.08-15.30.54:677][881]LogEditorViewport: Clicking Background
+[2023.08.08-15.30.54:691][881]LogSlate: Window 'Color Picker' being destroyed
+[2023.08.08-15.31.27:990][733]LogEditorViewport: Clicking Background
+[2023.08.08-15.31.48:031][  8]LogEditorViewport: Clicking Background
+[2023.08.08-15.32.07:701][327]LogViewport: Scene viewport resized to 1438x572, mode Windowed.
+[2023.08.08-15.32.07:732][329]LogViewport: Scene viewport resized to 1423x572, mode Windowed.
+[2023.08.08-15.32.07:768][331]LogViewport: Scene viewport resized to 1393x572, mode Windowed.
+[2023.08.08-15.32.07:798][333]LogViewport: Scene viewport resized to 1352x572, mode Windowed.
+[2023.08.08-15.32.07:831][335]LogViewport: Scene viewport resized to 1310x572, mode Windowed.
+[2023.08.08-15.32.07:862][337]LogViewport: Scene viewport resized to 1279x572, mode Windowed.
+[2023.08.08-15.32.07:896][339]LogViewport: Scene viewport resized to 1246x572, mode Windowed.
+[2023.08.08-15.32.07:930][341]LogViewport: Scene viewport resized to 1206x572, mode Windowed.
+[2023.08.08-15.32.07:959][343]LogViewport: Scene viewport resized to 1175x572, mode Windowed.
+[2023.08.08-15.32.07:992][345]LogViewport: Scene viewport resized to 1134x572, mode Windowed.
+[2023.08.08-15.32.08:024][347]LogViewport: Scene viewport resized to 1108x572, mode Windowed.
+[2023.08.08-15.32.08:056][349]LogViewport: Scene viewport resized to 1089x572, mode Windowed.
+[2023.08.08-15.32.08:090][351]LogViewport: Scene viewport resized to 1077x572, mode Windowed.
+[2023.08.08-15.32.08:119][353]LogViewport: Scene viewport resized to 1071x572, mode Windowed.
+[2023.08.08-15.32.08:151][355]LogViewport: Scene viewport resized to 1067x572, mode Windowed.
+[2023.08.08-15.32.08:180][357]LogViewport: Scene viewport resized to 1044x572, mode Windowed.
+[2023.08.08-15.32.08:211][359]LogViewport: Scene viewport resized to 1024x572, mode Windowed.
+[2023.08.08-15.32.08:243][361]LogViewport: Scene viewport resized to 993x572, mode Windowed.
+[2023.08.08-15.32.08:278][363]LogViewport: Scene viewport resized to 931x572, mode Windowed.
+[2023.08.08-15.32.14:780][120]LogViewport: Scene viewport resized to 922x572, mode Windowed.
+[2023.08.08-15.32.14:808][122]LogViewport: Scene viewport resized to 905x572, mode Windowed.
+[2023.08.08-15.32.14:843][124]LogViewport: Scene viewport resized to 866x572, mode Windowed.
+[2023.08.08-15.32.14:871][126]LogViewport: Scene viewport resized to 849x572, mode Windowed.
+[2023.08.08-15.32.14:903][128]LogViewport: Scene viewport resized to 830x572, mode Windowed.
+[2023.08.08-15.32.14:935][130]LogViewport: Scene viewport resized to 810x572, mode Windowed.
+[2023.08.08-15.32.14:967][132]LogViewport: Scene viewport resized to 789x572, mode Windowed.
+[2023.08.08-15.32.14:997][134]LogViewport: Scene viewport resized to 767x572, mode Windowed.
+[2023.08.08-15.32.15:029][136]LogViewport: Scene viewport resized to 752x572, mode Windowed.
+[2023.08.08-15.32.15:061][138]LogViewport: Scene viewport resized to 747x572, mode Windowed.
+[2023.08.08-15.32.15:091][140]LogViewport: Scene viewport resized to 742x572, mode Windowed.
+[2023.08.08-15.32.15:243][157]LogViewport: Scene viewport resized to 739x572, mode Windowed.
+[2023.08.08-15.32.23:499][995]LogClient: High resolution screenshot saved as D:/DesignerCascadeScene/DesignerCascade/Saved/Screenshots/WindowsEditor/HighresScreenshot00012.png
+[2023.08.08-15.32.35:032][269]LogClient: High resolution screenshot saved as D:/DesignerCascadeScene/DesignerCascade/Saved/Screenshots/WindowsEditor/HighresScreenshot00013.png
+[2023.08.08-15.32.56:766][496]Cmd: r.ResetRenderTargetsExtent
+[2023.08.08-15.32.56:766][496]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.08.08-15.32.56:766][496]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.08.08-15.32.59:049][751]LogViewport: Scene viewport resized to 746x572, mode Windowed.
+[2023.08.08-15.32.59:081][753]LogViewport: Scene viewport resized to 762x572, mode Windowed.
+[2023.08.08-15.32.59:127][755]LogViewport: Scene viewport resized to 837x572, mode Windowed.
+[2023.08.08-15.32.59:193][757]LogViewport: Scene viewport resized to 958x572, mode Windowed.
+[2023.08.08-15.32.59:233][759]LogViewport: Scene viewport resized to 1064x572, mode Windowed.
+[2023.08.08-15.32.59:292][761]LogViewport: Scene viewport resized to 1165x572, mode Windowed.
+[2023.08.08-15.32.59:345][763]LogViewport: Scene viewport resized to 1265x572, mode Windowed.
+[2023.08.08-15.32.59:410][765]LogViewport: Scene viewport resized to 1317x572, mode Windowed.
+[2023.08.08-15.32.59:455][767]LogViewport: Scene viewport resized to 1344x572, mode Windowed.
+[2023.08.08-15.32.59:509][769]LogViewport: Scene viewport resized to 1399x572, mode Windowed.
+[2023.08.08-15.32.59:563][771]LogViewport: Scene viewport resized to 1415x572, mode Windowed.
+[2023.08.08-15.33.11:712][195]LogEditorViewport: Clicking Background
+[2023.08.08-15.33.15:948][570]LogClient: High resolution screenshot saved as D:/DesignerCascadeScene/DesignerCascade/Saved/Screenshots/WindowsEditor/HighresScreenshot00012.png
+[2023.08.08-15.33.30:164][786]LogClient: High resolution screenshot saved as D:/DesignerCascadeScene/DesignerCascade/Saved/Screenshots/WindowsEditor/HighresScreenshot00013.png
+[2023.08.08-15.33.42:299][983]Cmd: r.ResetRenderTargetsExtent
+[2023.08.08-15.33.42:299][983]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.08.08-15.33.42:299][983]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.08.08-15.34.00:597][ 10]LogClient: High resolution screenshot saved as D:/DesignerCascadeScene/DesignerCascade/Saved/Screenshots/WindowsEditor/HighresScreenshot00013.png
+[2023.08.08-15.34.01:773][ 85]Cmd: r.ResetRenderTargetsExtent
+[2023.08.08-15.34.01:773][ 85]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.08.08-15.34.01:774][ 85]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.08.08-15.34.27:284][780]LogClient: High resolution screenshot saved as D:/DesignerCascadeScene/DesignerCascade/Saved/Screenshots/WindowsEditor/HighresScreenshot00014.png
+[2023.08.08-15.34.41:779][999]Cmd: r.ResetRenderTargetsExtent
+[2023.08.08-15.34.41:780][999]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.08.08-15.34.41:780][999]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display: ================================================
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display: Total job queries 563, among them cache hits 208 (36.94%)
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display: Tracking 345 distinct input hashes that result in 228 distinct outputs (66.09%)
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display: RAM used: 3.08 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.19%
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display: Shaders Compiled: 212
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display: Jobs assigned 212, completed 212 (100.00%)
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display: Average time worker was idle: 29.48 s
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display: Time job spent in pending queue: average 1.80 s, longest 7.03 s
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display: Job execution time: average 0.76 s, max 1.52 s
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display: Job life time (pending + execution): average 2.56 s, max 7.64
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 50.49 s
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display: Jobs were issued in 212 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display: Average processing rate: 4.20 jobs/sec
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display: Total thread time: 130.50 s
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display: Total thread preprocess time: 7.23 s
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display: Percentage time preprocessing: 5.54%
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display: Effective parallelization: 2.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 0.91 sec, max 0.93 sec, min 0.90 sec)
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   13 times, average 0.91 sec, max 1.07 sec, min 0.62 sec)
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    4 times, average 0.89 sec, max 1.03 sec, min 0.84 sec)
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display:    TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    4 times, average 0.88 sec, max 0.97 sec, min 0.82 sec)
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    4 times, average 0.87 sec, max 0.88 sec, min 0.86 sec)
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.08% of total time (compiled   13 times, average 0.91 sec, max 1.07 sec, min 0.62 sec)
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.91% of total time (compiled   14 times, average 0.74 sec, max 0.80 sec, min 0.56 sec)
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.93% of total time (compiled    8 times, average 0.80 sec, max 0.84 sec, min 0.65 sec)
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.32% of total time (compiled    7 times, average 0.81 sec, max 0.90 sec, min 0.65 sec)
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 4.24% of total time (compiled    7 times, average 0.79 sec, max 0.88 sec, min 0.64 sec)
+[2023.08.08-15.34.44:095][226]LogShaderCompilers: Display: ================================================
+[2023.08.08-15.34.52:846][166]LogClient: High resolution screenshot saved as D:/DesignerCascadeScene/DesignerCascade/Saved/Screenshots/WindowsEditor/HighresScreenshot00022.png
+[2023.08.08-15.34.54:180][272]Cmd: r.ResetRenderTargetsExtent
+[2023.08.08-15.34.54:180][272]Scene texture extent history reset. Next scene render will reallocate textures at the requested size.
+[2023.08.08-15.34.54:180][272]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2023.08.08-15.35.50:253][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.08.08-15.35.51:026][149]LogSlate: Window 'Save Content' being destroyed
+[2023.08.08-15.35.51:038][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.08-15.35.51:100][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bubble" FILE="../../../../DesignerCascadeScene/DesignerCascade/Content/Bubble.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.08-15.35.51:109][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.08.08-15.35.51:114][149]LogSavePackage: Moving output files for package: /Game/Bubble
+[2023.08.08-15.35.51:114][149]LogSavePackage: Moving '../../../../DesignerCascadeScene/DesignerCascade/Saved/Bubble1C7171CE4C466389D5B7039339BF4B82.tmp' to '../../../../DesignerCascadeScene/DesignerCascade/Content/Bubble.umap'
+[2023.08.08-15.35.51:130][149]LogFileHelpers: Saving map 'Bubble' took 0.030
+[2023.08.08-15.35.51:138][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 33.6 sec)
+[2023.08.08-15.35.51:141][149]AssetCheck: New page: Asset Save: Bubble
+[2023.08.08-15.35.51:141][149]LogContentValidation: Display: Validating /Script/Engine.World /Game/Bubble.Bubble
